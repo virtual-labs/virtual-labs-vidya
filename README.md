@@ -80,7 +80,19 @@ As of now, Vidya covers 150+ conversation scenarios. Following are some of the e
 4. how to add fullfilment?
 5. rich content types?
 6. How to add button in dialogflow?
+7. syntax for info type?
 
+### Misch
+
+1. analytics page?
+2. Virtual Labs contribution process?
+3. How do I start developing virtual labs experiments
+4. Hosting info?
+5. Link for Virtual Labs FAQ?
+6. Workshop FAQs?
+7. Tips for using virtual lab?
+8. Outreach info?
+9. Workshop fees for college?
 
 ## Development
 
@@ -105,6 +117,7 @@ Vidya is made up of following three Dialogflow agents.
 1. [Adding Agent](https://cloud.google.com/dialogflow/es/docs/agents-manage)
 2. [Adding Intent](https://cloud.google.com/dialogflow/es/docs/intents-overview)
 3. [Adding Fulfillment](https://cloud.google.com/dialogflow/es/docs/quick/fulfillment)
+4. [Entities](https://cloud.google.com/dialogflow/es/docs/entities-overview)
 
 ## Future Suggestions
 
