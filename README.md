@@ -251,7 +251,7 @@ Following are the rich content types available in Dialogflow messenger along wit
 
 #### 6. Accordion
 
-[Accordion Image](https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/accordion-item.png)
+![Accordion Image](https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/accordion-item.png)
 ```
 {
  "richContent": [
@@ -274,7 +274,7 @@ Following are the rich content types available in Dialogflow messenger along wit
 
 #### 7. Suggestion Chips
 
-[Chips Image](https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/chip-item.png)
+![Chips Image](https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/chip-item.png)
 ```
 {
  "richContent": [
