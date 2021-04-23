@@ -28,6 +28,9 @@ Vidya consists of both public and private agents. The public bot deployed on [Vl
         customSmalltalkResponses_en.json  Small talk responses (Small talk only available in public bot)  
         intents\
             ...
+    test-app\                             A test node application to test Google Sheets API calls before adding onto fulfillments
+        index.js
+        package.json
     README.md                             Basic information about the bot usage
     CONTRIBUTING.md                       Information regarding dialogflow development
     
