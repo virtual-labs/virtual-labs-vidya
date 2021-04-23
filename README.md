@@ -28,7 +28,8 @@ Vidya consists of both public and private agents. The public bot deployed on [Vl
         customSmalltalkResponses_en.json  Small talk responses (Small talk only available in public bot)  
         intents\
             ...
-    README.md                             Basic information about the bot usage & development
+    README.md                             Basic information about the bot usage
+    CONTRIBUTE.md                         Information regarding dialogflow development
     
     
 
@@ -97,7 +98,7 @@ As of now, Vidya covers 150+ conversation scenarios. Following are some of the e
 
 ## Development
 
-Check out [CONTRIBUTING.md](https://github.com/virtual-labs/virtual-labs-vidya/blob/main/CONTRIBUTE.md) for details regarding development of bot
+Check out [CONTRIBUTE.md](https://github.com/virtual-labs/virtual-labs-vidya/blob/main/CONTRIBUTE.md) for details regarding development of bot
 
 ## Future Suggestions
 
