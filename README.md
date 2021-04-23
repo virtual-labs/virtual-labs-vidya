@@ -1,6 +1,9 @@
 # Vidya ( Virtual Assistant )
 
-Vidya is a Dialogflow based conversational chatbot, designed to streamline the interaction between people and virtual labs services. Vidya enhances user experience through dynamic & efficient simulated chat experience. Vidya is tightly integrated with the analytics [data](https://docs.google.com/spreadsheets/d/1tJI8OIV2F3BXFkniSODtyr3smj3SS2zQGc5Q-x5N8kI/edit?usp=sharing), answering a range of analytics & metrics related questions. 
+Vidya is a Dialogflow based conversational chatbot, designed to streamline the interaction between people and virtual labs services. Vidya enhances user experience through dynamic & efficient simulated chat experience. 
+
+Vidya is tightly integrated with the analytics [data](https://docs.google.com/spreadsheets/d/1tJI8OIV2F3BXFkniSODtyr3smj3SS2zQGc5Q-x5N8kI/edit?usp=sharing), answering a range of analytics & metrics related questions. 
+
 Vidya consists of both public and private agents. The public bot deployed on [Vlead website](https://vlead.vlabs.ac.in) is trained to answer questions about labs, disciplines, FAQs, workshops, users/views trends, etc. The private bot deployed as part of Slack apps can answer questions related to Dialogflow bot training, agents structure & other private stuff. The public bot is a subset of the private bot, so the slack bot can also answer any of the public questions.
 
 - Deployed Public Bot : [Link](https://vlead.vlabs.ac.in)
