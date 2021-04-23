@@ -12,17 +12,17 @@ Vidya consists of both public and private agents. The public bot deployed on [Vl
     Fulfillments\
         index.js                          Backend code for dialogflow intents
         package.json                       
-    Internal-Bot\                         Internal Bot files exported from Dialogflow
+    Internal-Bot\                         
+        agent.json                        Agent Metadata
+        package.json                      Agent version info
+        intents\                          Intents corresponding to this agent
+            ...
+    Parent-Bot\                           
         agent.json
         package.json
         intents\
             ...
-    Parent-Bot\                           Parent Bot files exported from Dialogflow
-        agent.json
-        package.json
-        intents\
-            ...
-    Vidya-Public\                         Vidya Public Bot files exported from Dialogflow
+    Vidya-Public\                         For importing an agent, zip the folder & import it in dialogflow
         agent.json
         package.json
         intents\
