@@ -9,27 +9,27 @@ Vidya consists of both public and private agents. The public bot deployed on [Vl
 
 ## Repository Structure
 
-    Fulfillments\
+    fulfillments\
         index.js                          Backend code for dialogflow intents
         package.json                       
-    Internal-Bot\                         
+    internal-bot\                         
         agent.json                        Agent Metadata
         package.json                      Agent version info
         intents\                          Intents corresponding to this agent
             ...
-    Parent-Bot\                           
+    parent-bot\                           
         agent.json
         package.json
         intents\
             ...
-    Vidya-Public\                         For importing an agent, zip the folder & import it in dialogflow
+    vidya-public\                         For importing an agent, zip the folder & import it in dialogflow
         agent.json
         package.json
         customSmalltalkResponses_en.json  Small talk responses (Small talk only available in public bot)  
         intents\
             ...
     README.md                             Basic information about the bot usage
-    CONTRIBUTE.md                         Information regarding dialogflow development
+    CONTRIBUTING.md                         Information regarding dialogflow development
     
     
 
@@ -98,7 +98,7 @@ As of now, Vidya covers 150+ conversation scenarios. Following are some of the e
 
 ## Development
 
-Check out [CONTRIBUTE.md](https://github.com/virtual-labs/virtual-labs-vidya/blob/main/CONTRIBUTE.md) for details regarding development of bot
+Check out [CONTRIBUTING.md](https://github.com/virtual-labs/virtual-labs-vidya/blob/main/CONTRIBUTING.md) for details regarding development of bot
 
 ## Future Suggestions
 
