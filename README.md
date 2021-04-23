@@ -12,6 +12,7 @@ Vidya consists of both public and private agents. The public bot deployed on [Vl
 
 ## Repository Structure
 
+
     fulfillments\
         index.js                          Backend code for dialogflow intents
         package.json                       
@@ -38,7 +39,19 @@ Vidya consists of both public and private agents. The public bot deployed on [Vl
     CONTRIBUTING.md                       Information regarding dialogflow development
     
     
+### Agents
 
+* Internal Bot: Private bot consisting of only private intents
+* Vidya Public: Public bot consisting of only public intents
+* Parent Bot: Placeholder agent acting as parent of above two agents
+
+#### Importing agent
+
+For importing any of the agents, compress their corresponding folder into zip & follow these steps
+
+1. Go to the Dialogflow console and click the ⚙icon next to your Dialogflow agent name.
+2. Click to Export and Import tab in the settings of your Dialogflow agent and click IMPORT FROM ZIP.
+3. Drag the ZIP file into the box and type the word IMPORT to complete the import
 
 ## Use Cases
 
