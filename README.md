@@ -29,7 +29,7 @@ Vidya consists of both public and private agents. The public bot deployed on [Vl
         intents\
             ...
     README.md                             Basic information about the bot usage
-    CONTRIBUTING.md                         Information regarding dialogflow development
+    CONTRIBUTING.md                       Information regarding dialogflow development
     
     
 
