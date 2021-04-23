@@ -1,0 +1,61 @@
+{
+  "id": "51825df7-ce45-49d1-9822-47b78292c887",
+  "name": "cs-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "slack",
+          "title": "Computer Science Labs",
+          "buttons": [
+            {
+              "postback": "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
+              "text": "Click to view CS Labs"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "icon": {
+                    "type": "link",
+                    "color": "#FF9800"
+                  },
+                  "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
+                  "text": "Computer Science Labs",
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

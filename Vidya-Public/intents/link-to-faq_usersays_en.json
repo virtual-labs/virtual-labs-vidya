@@ -1,0 +1,143 @@
+[
+  {
+    "id": "a9c4041a-0c54-437b-966a-9363404015b8",
+    "data": [
+      {
+        "text": "Web page link to ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " FAQs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "796ccb78-0910-40c4-96ae-eb2a79028af6",
+    "data": [
+      {
+        "text": "Please give me a link to FAQs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ac6dbdb-40cb-4fd5-95c0-6615a3e26f2f",
+    "data": [
+      {
+        "text": "Can you give me a link to ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " FAQs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dc6d289-510f-49a2-bb1d-9763742f135c",
+    "data": [
+      {
+        "text": "Please give me a link to webpage with ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " FAQs.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e74ce9f-a73a-45b4-872a-b79e216b1131",
+    "data": [
+      {
+        "text": "Virtual lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Frequently asked questions document link?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07b75dc4-1019-43b7-b78d-348d1cab69f0",
+    "data": [
+      {
+        "text": "Link for ",
+        "userDefined": false
+      },
+      {
+        "text": "Vlab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " FAQs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "399f6c05-a21e-42ed-b58a-9ea84975f0c5",
+    "data": [
+      {
+        "text": "Link for ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " FAQ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

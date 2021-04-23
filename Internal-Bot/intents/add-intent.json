@@ -1,0 +1,46 @@
+{
+  "id": "985e9859-9c51-44bf-a450-d0fef6d8f933",
+  "name": "add-intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "An intent categorises an end-user\u0027s intention for one conversation turn. When an end-user writes or says something, referred to as an end-user expression, Dialogflow matches the end-user expression to the best intent in your agent.\u2028\u2028\n\nIf you have FAQs with multiple questions \u0026 answers, create an intent for each of the questions.\u2028\u2028\n\nProcess of adding a new intent : \u2028\n\n1. Go to the Dialogflow ES Console.\n2. Select an agent.\n3. Select Intents in the left sidebar menu.\n4. Click the add add button next to Intents in the left sidebar menu.\n5. Enter a name for your intent. Your intent name should represent the end-user expressions it recognises.\n6. Add training expressions ( questions user can ask ) \u0026 response to that\n7. Click Save.\u2028\u2028\n\nYou can add following rich content types in Dialogflow Messenger using custom payload.\n1) Info/Card\n2) Description\n3) Image\n4) Button\n5) List\n6) Accordion\n7) Suggestion chips"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "An intent categorises an end-user\u0027s intention for one conversation turn. When an end-user writes or says something, referred to as an end-user expression, Dialogflow matches the end-user expression to the best intent in your agent.\u2028\u2028\n\nIf you have FAQs with multiple questions \u0026 answers, create an intent for each of the questions.\u2028\u2028Process of adding a new intent : \u2028\n\n1. Go to the Dialogflow ES Console.\n2. Select an agent.\n3. Select Intents in the left sidebar menu.\n4. Click the add add button next to Intents in the left sidebar menu.\n5. Enter a name for your intent. Your intent name should represent the end-user expressions it recognises.\n6. Add training expressions ( questions user can ask ) \u0026 response to that\n7. Click Save."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": "274fec5a-f57c-4225-9542-084a7ac67bac",
+  "name": "repo-vlead-website",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "https://gitlab.com/vlead-projects/vlead-website"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "slack",
+          "subtitle": "https://gitlab.com/vlead-projects/vlead-website",
+          "title": "Vlead website repo",
+          "buttons": [
+            {
+              "postback": "https://gitlab.com/vlead-projects/vlead-website",
+              "text": "Click to go to repo"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "info",
+                  "subtitle": "https://gitlab.com/vlead-projects/vlead-website",
+                  "actionLink": "https://gitlab.com/vlead-projects/vlead-website",
+                  "title": "VLEAD Website Repository",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://example.com/images/logo.png"
+                    }
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

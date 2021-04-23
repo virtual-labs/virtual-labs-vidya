@@ -1,0 +1,49 @@
+{
+  "id": "a6cdab33-6226-4823-aff7-83b29e18515f",
+  "name": "contribute-virtual-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "Anyone can contribute to the Virtual Labs.",
+                  "type": "accordion",
+                  "text": "\u003cp\u003evlabs-dev is the main portal for Virtual Labs Development. Please visit the \u003ca href\u003dhttp://vlabs-dev.vlabs.ac.in/community/contributing.html\u003econtributing section\u003c/a\u003e of the \u003ca href\u003dhttp://vlabs-dev.vlabs.ac.in/ \u003evlabs-dev\u003c/a\u003e portal.",
+                  "title": "Virtual Labs Contribution",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://example.com/images/logo.png"
+                    }
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "77aa1a12-7c85-40fe-bbda-fc32dce48b5e",
+  "name": "intended-users-virtual-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The intended beneficiaries of the projects are:\n\n1)All students and Faculty Members of Science and Engineering Colleges who do not have access to good lab-facilities and/or instruments.\n\n2)High-school students, whose inquisitiveness will be triggered, possibly motivating them to take up higher-studies.\n\n3)Researchers in different institutes who can collaborate /share equipment and resources.\n\n4)Different engineering colleges, who can benefit from the content and related teaching resources. The project has completely fulfilled the requirements of the targeted beneficiaries (and even gone beyond). An eco-system has evolved around Virtual Labs, where the community has become involved in evolving and benefitting from the project."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "1. All students and Faculty Members of Science and Engineering Colleges who do not have access to good lab-facilities and/or instruments",
+                    "2. High-school students, whose inquisitiveness will be triggered, possibly motivating them to take up higher-studies.",
+                    "3. Researchers in different institutes who can collaborate /share equipment and resources.",
+                    "4. Different engineering colleges, who can benefit from the content and related teaching resources. The project has completely fulfilled the requirements of the targeted beneficiaries (and even gone beyond). An eco-system has evolved around Virtual Labs, where the community has become involved in evolving and benefitting from the project."
+                  ],
+                  "title": "Beneficiaries of the Virtual Labs",
+                  "type": "description"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

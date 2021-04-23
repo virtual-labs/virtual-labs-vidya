@@ -1,0 +1,61 @@
+{
+  "id": "3e5e7b2e-7f4e-48b5-a488-f11b9dcca3b3",
+  "name": "recommended-settings-virtual-box",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Processor --\u003e Single.\n\nMemory/RAM size --\u003e 2GB or 4GB according to your RAM Size.\n\nPlease change the network setting in your Virtualization software for the imported image from Bridge adapter to Nat.\n\nDo not update or upgrade any application in it."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Recommended Settings",
+                  "type": "description",
+                  "text": [
+                    "Processor --\u003e Single.",
+                    "Memory/RAM size --\u003e 2GB or 4GB according to your RAM Size.",
+                    "Please change the network setting in your Virtualization software for the imported image from Bridge adapter to Nat."
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

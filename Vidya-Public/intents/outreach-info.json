@@ -1,0 +1,80 @@
+{
+  "id": "98e36631-be99-46ee-8a4d-5e41aedbb58b",
+  "name": "outreach-info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f37c405c-abbe-442e-b946-06234ec2cc52",
+          "name": "virtual-labs-services",
+          "required": false,
+          "dataType": "@Virtual-Labs-Services",
+          "value": "$virtual-labs-services",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "https://vlead.vlabs.ac.in/outreach/"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "button",
+                  "text": "Outreach",
+                  "event": {
+                    "parameters": {},
+                    "name": "",
+                    "languageCode": ""
+                  },
+                  "link": "https://vlead.vlabs.ac.in/outreach/",
+                  "icon": {
+                    "type": "link",
+                    "color": "#FF9800"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

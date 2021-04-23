@@ -1,0 +1,58 @@
+{
+  "id": "7c82c6bb-f769-45ed-8193-094649e8f4bd",
+  "name": "terms-conditions-virtual-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There is no financial liability on any party for using Virtual Labs. It is free to use.\nThe Institute/College cannot charge students for the use of Virtual Labs.\nThe institute/college must nominate a single point of contact for all logistical and technical coordination between the institute and Virtual Labs."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "There is no financial liability on any party for using Virtual Labs. It is free to use.",
+                    "The Institute/College cannot charge students for the use of Virtual Labs.",
+                    "The institute/college must nominate a single point of contact for all logistical and technical coordination between the institute and Virtual Labs."
+                  ],
+                  "type": "description",
+                  "title": "Terms and Conditions for Virtual Labs"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

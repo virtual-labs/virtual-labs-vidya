@@ -1,0 +1,156 @@
+[
+  {
+    "id": "6e050797-77e9-436d-b588-ef5f11bea445",
+    "data": [
+      {
+        "text": "Workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " FAQs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7daf9e90-0667-4fd3-a2f2-f22feb7aa98f",
+    "data": [
+      {
+        "text": "Where do I see FAQs regarding ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c165ba6a-3c51-444a-a146-7718f6805d36",
+    "data": [
+      {
+        "text": "Frequently asked questions regarding ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb87eef7-4417-4dff-9ae0-7ff8f7d933a5",
+    "data": [
+      {
+        "text": "I want to know more about ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc2a76a3-7bda-4933-985b-08fbf5083e07",
+    "data": [
+      {
+        "text": "Give me a web page link to FAQs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a602535b-1680-496f-8aa0-7b1d94000d20",
+    "data": [
+      {
+        "text": "Give me a link to ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " FAQs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ff52a1a-8e4a-4424-a741-3718095bced8",
+    "data": [
+      {
+        "text": "FAQ document concerning workshop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7785b7d-62c8-4c40-a70e-15f1d7595cc4",
+    "data": [
+      {
+        "text": "Link to ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " FAQs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

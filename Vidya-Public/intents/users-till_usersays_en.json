@@ -1,0 +1,186 @@
+[
+  {
+    "id": "3694f0d3-d8e4-47b5-8597-6dce650ee0d3",
+    "data": [
+      {
+        "text": "Total users till ",
+        "userDefined": false
+      },
+      {
+        "text": "1st April 2020",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b26f34e-ece3-4a70-a665-1bc19f304fda",
+    "data": [
+      {
+        "text": "Users till ",
+        "userDefined": false
+      },
+      {
+        "text": "11/23/2020",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9148d9dd-287f-486c-9f65-e1bc0a92a703",
+    "data": [
+      {
+        "text": "Overall users till ",
+        "userDefined": false
+      },
+      {
+        "text": "Mar 7 2021",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4406c650-c00d-484e-b955-814738593730",
+    "data": [
+      {
+        "text": "Overall users till ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e86847b-9f51-4e70-88fb-bbd02a696c61",
+    "data": [
+      {
+        "text": "Total users till ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0382516-ba71-4b0d-a1a5-f1072011b1f9",
+    "data": [
+      {
+        "text": "Cumulative users till ",
+        "userDefined": false
+      },
+      {
+        "text": "1st April 2020",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e09a8540-9d8d-47d1-a28c-f127556a2ab4",
+    "data": [
+      {
+        "text": "Users till ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bec71f74-b706-4f35-8587-5a78e7fcce9d",
+    "data": [
+      {
+        "text": "users till ",
+        "userDefined": false
+      },
+      {
+        "text": "May 8 2020",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

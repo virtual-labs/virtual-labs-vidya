@@ -1,0 +1,9 @@
+{
+  "id": "7441435d-0e1c-422b-b4aa-2f74e5276380",
+  "name": "Virtual-Labs-Domains",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

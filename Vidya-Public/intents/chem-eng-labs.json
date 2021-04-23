@@ -1,0 +1,61 @@
+{
+  "id": "53b641b2-bfae-45ce-abd1-d40de50eb720",
+  "name": "chem-eng-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "slack",
+          "title": "Chemical Engineering Labs",
+          "buttons": [
+            {
+              "postback": "https://www.vlab.co.in/broad-area-chemical-engineering",
+              "text": "Click to view Chemical Engineering Labs"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "icon": {
+                    "type": "link",
+                    "color": "#FF9800"
+                  },
+                  "type": "button",
+                  "text": "Chemical Engineering Labs",
+                  "link": "https://www.vlab.co.in/broad-area-chemical-engineering"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

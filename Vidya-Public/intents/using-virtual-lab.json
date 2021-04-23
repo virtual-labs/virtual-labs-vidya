@@ -1,0 +1,75 @@
+{
+  "id": "b0883eec-847c-47d1-ac9b-f0c5db7fcd0a",
+  "name": "using-virtual-lab",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "slack",
+          "imageUrl": "https://www.vlab.co.in/images/logo.jpg",
+          "subtitle": "All the labs in Virtual Labs are free of cost and anyone can use them at anytime, from anywhere.",
+          "title": "Virtual Labs",
+          "buttons": [
+            {
+              "postback": "http://vlabs.ac.in/faq",
+              "text": "Click for more info"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "info",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://www.vlab.co.in/images/logo.jpg"
+                    }
+                  },
+                  "subtitle": "All the labs in Virtual Labs are free of cost and anyone can use them at anytime, from anywhere.",
+                  "title": "Virtual Labs",
+                  "actionLink": "http://vlabs.ac.in/faq"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

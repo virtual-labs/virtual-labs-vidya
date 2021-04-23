@@ -1,0 +1,80 @@
+{
+  "id": "1076436d-1d43-4c04-8f88-71ed902365e9",
+  "name": "analytics-page",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f96395ab-bbb0-4ab1-ae1c-0564a0dc86ce",
+          "name": "virtual-labs-services",
+          "required": false,
+          "dataType": "@Virtual-Labs-Services",
+          "value": "$virtual-labs-services",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "https://vlead.vlabs.ac.in/analytics/"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "link"
+                  },
+                  "event": {
+                    "parameters": {},
+                    "name": "",
+                    "languageCode": ""
+                  },
+                  "type": "button",
+                  "text": "Analytics Dashboard",
+                  "link": "https://vlead.vlabs.ac.in/analytics/"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

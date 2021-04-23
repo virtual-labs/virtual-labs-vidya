@@ -1,0 +1,68 @@
+[
+  {
+    "value": "Mechanical Engineering",
+    "synonyms": [
+      "Mechanical",
+      "Mechnical Engineering"
+    ]
+  },
+  {
+    "value": "Chemical Engineering",
+    "synonyms": [
+      "Chemical",
+      "Chemical Engineering"
+    ]
+  },
+  {
+    "value": "Computer Science",
+    "synonyms": [
+      "Computer Science",
+      "Computer Engineering",
+      "Computers",
+      "Computer Technology"
+    ]
+  },
+  {
+    "value": "Civil Engineering",
+    "synonyms": [
+      "Civil",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "value": "Bio Medical \u0026 BioTechnology Engineering",
+    "synonyms": [
+      "BioMedical",
+      "Bio Technology"
+    ]
+  },
+  {
+    "value": "Physical Sciences",
+    "synonyms": [
+      "Physical Science",
+      "Physics"
+    ]
+  },
+  {
+    "value": "Chemical Sciences",
+    "synonyms": [
+      "Chemical Sciences",
+      "Chemistry"
+    ]
+  },
+  {
+    "value": "Electrical Engineering",
+    "synonyms": [
+      "Electrical Engineering",
+      "Electrical"
+    ]
+  },
+  {
+    "value": "Electronics and Communication Engineering",
+    "synonyms": [
+      "Electronics and Communication Engineering",
+      "Electronics",
+      "Communication"
+    ]
+  }
+]

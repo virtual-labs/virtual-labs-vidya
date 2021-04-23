@@ -1,0 +1,9 @@
+{
+  "id": "54d81d45-146f-4f4e-8442-c3c42776ed85",
+  "name": "Virtual-Labs-Services",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

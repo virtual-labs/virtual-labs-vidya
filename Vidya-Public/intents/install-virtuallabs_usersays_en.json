@@ -1,0 +1,80 @@
+[
+  {
+    "id": "b070c31f-38c8-41c4-8096-fca752f5b6b5",
+    "data": [
+      {
+        "text": "Installation process for Virtual Labs in VirtualBox?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2be83087-3b91-4dda-b097-6fe5456eff06",
+    "data": [
+      {
+        "text": "How do I install Virtual Labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e6dcce2-baaa-45bd-b020-b835fceb88db",
+    "data": [
+      {
+        "text": "How do I use Virtual Labs using Virtual Labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71c58c5b-2dda-4367-9ab4-5c0aebb29eb1",
+    "data": [
+      {
+        "text": "How do I install VirtualLabs using VirtualBox?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55d90a6d-ca7d-4438-b5c8-301a9bf31f77",
+    "data": [
+      {
+        "text": "How do I run VirtualLabs locally?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fc06330-f85b-481b-b531-4b8d72205351",
+    "data": [
+      {
+        "text": "How do I install VirtualLabs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

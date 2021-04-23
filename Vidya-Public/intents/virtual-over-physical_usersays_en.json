@@ -1,0 +1,301 @@
+[
+  {
+    "id": "cc24bb30-7b3e-4a0f-88d7-9c8db8542678",
+    "data": [
+      {
+        "text": "What is lacking in ",
+        "userDefined": false
+      },
+      {
+        "text": "physical",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", that I need to use ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b226ebb-867c-4f37-9db7-9a8cad6f2131",
+    "data": [
+      {
+        "text": "Advantages of ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " over ",
+        "userDefined": false
+      },
+      {
+        "text": "physical",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " at my ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72b840de-03fa-4524-8794-c8a5b95ae8b3",
+    "data": [
+      {
+        "text": "Virtual Lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " benefits over ",
+        "userDefined": false
+      },
+      {
+        "text": "physical",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed023679-ee8f-4e42-adcd-a43b03d06f24",
+    "data": [
+      {
+        "text": "Do I need ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", If I already have ",
+        "userDefined": false
+      },
+      {
+        "text": "physical",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in my ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e216f996-3199-42d3-87af-6b49dbbf7a38",
+    "data": [
+      {
+        "text": "Why is ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " better than ",
+        "userDefined": false
+      },
+      {
+        "text": "Physical",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a276086a-1466-44eb-b78e-1e1582e2ec8d",
+    "data": [
+      {
+        "text": "I already have a ",
+        "userDefined": false
+      },
+      {
+        "text": "Physical",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in my ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". What benefit will ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " provide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1638bf19-e858-47bd-b7fe-7c7da82a3ea4",
+    "data": [
+      {
+        "text": "Virtual lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " comparison with ",
+        "userDefined": false
+      },
+      {
+        "text": "physical",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "8573d19d-d94c-48e5-beb9-c9260ec468d0",
+    "data": [
+      {
+        "text": "Tell me how to register for remote triggered ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ce8b785-8b2e-4d19-8a68-27dbf20ab17d",
+    "data": [
+      {
+        "text": "Registration process for remote triggered ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b31f383-39b2-417c-a021-4f2bbecb50e5",
+    "data": [
+      {
+        "text": "How can I register for remote triggered type of ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b191c425-9f1d-402b-a8c0-0dbaa7e878d6",
+    "data": [
+      {
+        "text": "How do I register for remote triggered ",
+        "userDefined": false
+      },
+      {
+        "text": "labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

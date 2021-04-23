@@ -1,0 +1,454 @@
+[
+  {
+    "id": "6db154c3-a32f-47c8-9038-b79424a53229",
+    "data": [
+      {
+        "text": "Top ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "limit",
+        "userDefined": false
+      },
+      {
+        "text": " discipline?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32fc71ee-1d98-4e97-b52d-20dcc5c2af83",
+    "data": [
+      {
+        "text": "Most popular ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "limit",
+        "userDefined": false
+      },
+      {
+        "text": " disciplines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cef3dfb4-abde-4395-aeac-9e84cbde0e77",
+    "data": [
+      {
+        "text": "Top ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "limit",
+        "userDefined": false
+      },
+      {
+        "text": " subjects in virtual labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8c22f57-3b52-4c3b-b840-6ceee1d4073f",
+    "data": [
+      {
+        "text": "Most used subjects in virtual labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32898470-e0af-4379-b044-a0ae576945ed",
+    "data": [
+      {
+        "text": "Most viewed ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "meta": "@sys.number",
+        "alias": "limit",
+        "userDefined": false
+      },
+      {
+        "text": " fields?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "728965b5-99d7-4bea-a784-d3d1630a61a8",
+    "data": [
+      {
+        "text": "Most watched ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.number",
+        "alias": "limit",
+        "userDefined": false
+      },
+      {
+        "text": " disciplines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d053847-3ab6-464c-b6a8-ea8ace55f3ef",
+    "data": [
+      {
+        "text": "Disciplines with most cumulative views?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28020ccb-e33b-4ebf-b66f-90bd79aa7516",
+    "data": [
+      {
+        "text": "Top disciplines with most pageviews since january ",
+        "userDefined": false
+      },
+      {
+        "text": "2020",
+        "meta": "@sys.number",
+        "alias": "limit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8e576b3-e902-4acb-8f67-a1ac602a4ac9",
+    "data": [
+      {
+        "text": "Top ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "limit",
+        "userDefined": false
+      },
+      {
+        "text": " disciplines with most pageviews?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b630644-94b0-4af2-bfc4-8189ae9fa3af",
+    "data": [
+      {
+        "text": "which are the most viewed disciplines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e480cb8c-1cdd-4e02-b63f-1bcecfd532b2",
+    "data": [
+      {
+        "text": "top fields",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c5aa73f-8992-48e0-8005-322c6582378b",
+    "data": [
+      {
+        "text": "list of top ",
+        "userDefined": false
+      },
+      {
+        "text": "eight",
+        "meta": "@sys.number",
+        "alias": "limit",
+        "userDefined": false
+      },
+      {
+        "text": " fields?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38d51a5b-ea24-4f1a-9c59-de3eb47a22c6",
+    "data": [
+      {
+        "text": "top ",
+        "userDefined": false
+      },
+      {
+        "text": "seven",
+        "meta": "@sys.number",
+        "alias": "limit",
+        "userDefined": false
+      },
+      {
+        "text": " most viewed broad areas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59fd41eb-2033-45ff-b11d-ebda48dc523d",
+    "data": [
+      {
+        "text": "which are the most viewed subjects in virtual lab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e31481a9-1598-4452-8bef-7dc30fd30a42",
+    "data": [
+      {
+        "text": "which are the top ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "limit",
+        "userDefined": false
+      },
+      {
+        "text": " subjects in virtual labs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfe768f5-75d6-4a25-80d0-51d993933ba0",
+    "data": [
+      {
+        "text": "give me a list of top disciplines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15db8269-24e4-40e6-a572-6fca35bb98d9",
+    "data": [
+      {
+        "text": "top ",
+        "userDefined": false
+      },
+      {
+        "text": "six",
+        "meta": "@sys.number",
+        "alias": "limit",
+        "userDefined": false
+      },
+      {
+        "text": " disciplines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e575aac-2b9f-452f-bb97-254f45777222",
+    "data": [
+      {
+        "text": "top ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "limit",
+        "userDefined": false
+      },
+      {
+        "text": " disciplines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6745ba0e-59ae-4ce0-a932-52fbd4ad5cb5",
+    "data": [
+      {
+        "text": "top ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "limit",
+        "userDefined": false
+      },
+      {
+        "text": " disciplines of virtual labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f05b1baa-0ac7-4fc7-bcb3-21d8fa7e990b",
+    "data": [
+      {
+        "text": "top subjects of ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7205db85-1703-4a46-be94-1400e11431c8",
+    "data": [
+      {
+        "text": "Top broad areas of ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1ad21cb-9974-41d3-ac74-200cd1c9c132",
+    "data": [
+      {
+        "text": "Top disciplines in ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa879713-62cb-4f59-9deb-64d5fe0487f7",
+    "data": [
+      {
+        "text": "Top disciplines according to views?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

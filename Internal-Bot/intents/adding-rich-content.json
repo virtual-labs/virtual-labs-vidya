@@ -1,0 +1,147 @@
+{
+  "id": "62d00bf1-08cf-4cac-bb9e-d5d591d198b9",
+  "name": "adding-rich-content",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add following rich content types in Dialogflow Messenger using custom payload. \n\n1) Info/Card\n\n2) Description\n\n3) Image\n\n4) Button\n\n5) List\n\n6) Accordion\n\n7) Suggestion chips"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Click any of these types of rich content (Dialogflow Messenger) to view more info."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "A simple title card that users can click or touch",
+                  "title": "Info",
+                  "type": "list",
+                  "event": {
+                    "languageCode": "",
+                    "name": "INFO",
+                    "parameters": {}
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "subtitle": "An informative card that can have multiple lines of text",
+                  "event": {
+                    "parameters": {},
+                    "languageCode": "",
+                    "name": "DESC"
+                  },
+                  "title": "Description"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "subtitle": "An image card that users can click or touch",
+                  "event": {
+                    "parameters": {},
+                    "languageCode": "",
+                    "name": "IMAGE"
+                  },
+                  "title": "Image"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Button",
+                  "type": "list",
+                  "event": {
+                    "parameters": {},
+                    "languageCode": "",
+                    "name": "BUTTON"
+                  },
+                  "subtitle": "A small button with an icon that users can click or touch"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "event": {
+                    "languageCode": "",
+                    "name": "LIST",
+                    "parameters": {}
+                  },
+                  "subtitle": "A card with multiple options users can select from",
+                  "title": "List",
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "A small card that a user can click or touch to expand and reveal more text",
+                  "type": "list",
+                  "event": {
+                    "name": "ACCORD",
+                    "languageCode": "",
+                    "parameters": {}
+                  },
+                  "title": "Accordion"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "event": {
+                    "parameters": {},
+                    "languageCode": "",
+                    "name": "CHIPS"
+                  },
+                  "subtitle": "Provides the end-user with a list of clickable suggestion chips",
+                  "title": "Suggestion chips",
+                  "type": "list"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "96ad571d-fe75-4a23-a591-67ab6f8c7db9",
+    "data": [
+      {
+        "text": "It is ",
+        "userDefined": false
+      },
+      {
+        "text": "Windows",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a5ae8d4-49bd-47f8-acce-819e8152c64c",
+    "data": [
+      {
+        "text": "My operating system is ",
+        "userDefined": false
+      },
+      {
+        "text": "Windows",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "edf24026-3bb8-4989-b0fd-12ea52d8216b",
+    "data": [
+      {
+        "text": "Windows",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb681823-deb3-4f85-9948-948c764eff27",
+    "data": [
+      {
+        "text": "My OS is ",
+        "userDefined": false
+      },
+      {
+        "text": "Windows",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

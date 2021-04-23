@@ -1,0 +1,61 @@
+{
+  "id": "e94296ed-ecb3-4ef8-a0f4-21179294b3b0",
+  "name": "electrical-eng-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "slack",
+          "title": "Electrical Engineering Labs",
+          "buttons": [
+            {
+              "postback": "https://www.vlab.co.in/broad-area-electrical-engineering",
+              "text": "Click to view Electrical Engineering Labs"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "link": "https://www.vlab.co.in/broad-area-electrical-engineering",
+                  "text": "Electrical Engineering Labs",
+                  "type": "button",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "link"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

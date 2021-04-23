@@ -1,0 +1,106 @@
+[
+  {
+    "id": "2c8d6bdd-9ef2-4931-a424-db7fd4ae9399",
+    "data": [
+      {
+        "text": "Give me recommended settings for virtualbox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "291cd1be-b8e2-4524-b40d-7de2ca816e04",
+    "data": [
+      {
+        "text": "Can u tell me recommended settings for virtual box",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9281e1f8-8aa6-4bfd-9e5d-5752b9afe0ec",
+    "data": [
+      {
+        "text": "Please tell me recommended settings for Virtual Box",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "307adc73-2846-43bd-8a3f-55d3b798d810",
+    "data": [
+      {
+        "text": "Recommended settings of Virtual Box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d58ab72-5834-4f81-827d-3982d889204b",
+    "data": [
+      {
+        "text": "Which settings do I need to install Virtual Labs in Virtual ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b24fee8b-82aa-4a48-be5d-f965a2464571",
+    "data": [
+      {
+        "text": "What settings should I have for Virtual Box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "481d385f-8527-4426-8b9f-e327d85aece7",
+    "data": [
+      {
+        "text": "What is the recommended settings for VirtualBox?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd678299-1cb2-4a60-aedd-e0c050a31303",
+    "data": [
+      {
+        "text": "What are the recommended settings for VirtualBox?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

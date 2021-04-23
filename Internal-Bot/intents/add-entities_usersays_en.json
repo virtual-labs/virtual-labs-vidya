@@ -1,0 +1,93 @@
+[
+  {
+    "id": "acc4d4c7-7ffb-4119-a64a-fd1d9c5b37e0",
+    "data": [
+      {
+        "text": "process of adding entities?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49464aa4-f851-40e3-8640-3e26d5c783e8",
+    "data": [
+      {
+        "text": "how to add entities?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1b5a9c6-776d-4ba4-a567-aed00b829d64",
+    "data": [
+      {
+        "text": "Dialogflow parameters?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd604af8-f7c5-4ab1-ae18-50c313ef53dd",
+    "data": [
+      {
+        "text": "Entities?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa6d4ef0-5364-4fee-9a3f-a3a68c72cefb",
+    "data": [
+      {
+        "text": "Entites?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13f94498-10d2-46b0-a012-e928bddcf789",
+    "data": [
+      {
+        "text": "Entities in dialogflow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e0bbe53-9c15-473f-9a49-697f01f89555",
+    "data": [
+      {
+        "text": "What are entities in Dialogflow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "id": "b621078b-1fcf-4737-81b8-756d9168b1fe",
+  "name": "registration-virtual-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Virtual Labs are divided into two categories: simulation based labs and remote triggered labs. Registration requirements are different for the two categories.\n\nSimulation based Labs: All labs can be directly accessed by following the lab links on the web page.\n\nRemote Triggered Labs: To access a remote triggered lab, a user has to book a slot. For booking a slot, you have to register yourself first and then book a slot from the slot chart. All the available /booked slots can be viewed on this chart. Once a request for slot-booking is made, all the information regarding the user id, password and the slot booked will be sent to the user’s email address provided by the user at the time of registration. Once registered, a user can login using the same credentials every time. This registration has to be done by the user separately for each of the remote triggered virtual labs."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Click any of these categories of Virtual Labs to see corresponding registration process."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "list",
+                  "subtitle": "In these Virtual Labs, the actual experiments are triggered remotely",
+                  "event": {
+                    "name": "REM_REG",
+                    "languageCode": "",
+                    "parameters": {}
+                  },
+                  "title": "Remote Triggered Labs"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "In these Virtual Labs, the experiments are modeled using mathematical equations.",
+                  "type": "list",
+                  "event": {
+                    "languageCode": "",
+                    "parameters": {},
+                    "name": "SIM_REG"
+                  },
+                  "title": "Simulation Based Virtual Labs"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "id": "e8b51779-b671-462c-97a5-795fd8eed903",
+    "data": [
+      {
+        "text": "Virtual Labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hosting process?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28ee521a-cc63-44a9-8085-fbab53f1548b",
+    "data": [
+      {
+        "text": "How to host ",
+        "userDefined": false
+      },
+      {
+        "text": "lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " on AWS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "200d3dae-2af9-4a9e-8505-7cc760c96182",
+    "data": [
+      {
+        "text": "Process of on-boarding and hosting?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5aafbf10-801b-438f-841e-c11b97514f8f",
+    "data": [
+      {
+        "text": "Hosting info?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b317648-e6b3-4f2c-b6bf-ba9ca6c57e30",
+    "data": [
+      {
+        "text": "Hosting info document?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

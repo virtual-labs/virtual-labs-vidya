@@ -1,0 +1,37 @@
+[
+  {
+    "value": "laboratory",
+    "synonyms": [
+      "laboratory",
+      "lab",
+      "virtual lab"
+    ]
+  },
+  {
+    "value": "experiment",
+    "synonyms": [
+      "experiment",
+      "exp",
+      "simulation",
+      "virtual experiment"
+    ]
+  },
+  {
+    "value": "institute",
+    "synonyms": [
+      "institute",
+      "college",
+      "school",
+      "iitb",
+      "iiith"
+    ]
+  },
+  {
+    "value": "workshop",
+    "synonyms": [
+      "workshop",
+      "outreach",
+      "hands on"
+    ]
+  }
+]

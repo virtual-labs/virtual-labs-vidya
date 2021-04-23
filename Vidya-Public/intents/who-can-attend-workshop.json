@@ -1,0 +1,50 @@
+{
+  "id": "3afedce7-37ef-40cc-8f00-dc7203a88903",
+  "name": "who-can-attend-workshop",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bfef1143-77e4-4bb9-960f-3b70d07a0205",
+          "name": "virtual-labs-services",
+          "required": false,
+          "dataType": "@Virtual-Labs-Services",
+          "value": "$virtual-labs-services",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All interested faculty and students of the college/institutes can participate in the workshop."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

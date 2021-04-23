@@ -1,0 +1,61 @@
+{
+  "id": "5d83474d-93ff-4afa-b8e1-7364cc6945f7",
+  "name": "configuration-workshops",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "System configuration required for running Virtual Labs:\n\n1)No pop-up blockers\n\n2)Browser: Firefox, Chrome\n\n3)Internet connection (2-4 mbps)\n\n4)JavaScript should be enabled on the browser\n\n5)Plugins: Flash, Java 1.6 version, and IcedTea\n\n6)Faculty from electronics department may be needed while running some of the adders, multiplexers experiments."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "System Configuration for Workshops",
+                  "text": [
+                    "1. No pop-up blockers",
+                    "2. Browser: Firefox, Chrome",
+                    "3. Internet connection (2-4 mbps)",
+                    "4. JavaScript should be enabled on the browser",
+                    "5. Plugins: Flash, Java 1.6 version, and IcedTea",
+                    "6. Faculty from electronics department may be needed while running some of the adders, multiplexers experiments."
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

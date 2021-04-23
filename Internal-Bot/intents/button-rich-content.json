@@ -1,0 +1,107 @@
+{
+  "id": "5416c2fd-495c-488d-9913-8e6892dd7c34",
+  "name": "button-rich-content",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Button response:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "slack",
+          "imageUrl": "https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/button-item.png",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add the button response type in Dialogflow Messenger with the following custom payload.\n\n\n{\n  \"richContent\": [\n    [\n      {\n        \"type\": \"button\",\n        \"icon\": {\n          \"type\": \"chevron_right\",\n          \"color\": \"#FF9800\"\n        },\n        \"text\": \"Button text\",\n        \"link\": \"https://example.com\",\n        \"event\": {\n          \"name\": \"\",\n          \"languageCode\": \"\",\n          \"parameters\": {}\n        }\n      }\n    ]\n  ]\n}"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Button response looks as follows:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "event": {
+                    "name": "",
+                    "parameters": {},
+                    "languageCode": ""
+                  },
+                  "text": "Button text",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "link": "https://example.com",
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add the button response type in Dialogflow Messenger with the following custom payload.\n\n\n{\n  \"richContent\": [\n    [\n      {\n        \"type\": \"button\",\n        \"icon\": {\n          \"type\": \"chevron_right\",\n          \"color\": \"#FF9800\"\n        },\n        \"text\": \"Button text\",\n        \"link\": \"https://example.com\",\n        \"event\": {\n          \"name\": \"\",\n          \"languageCode\": \"\",\n          \"parameters\": {}\n        }\n      }\n    ]\n  ]\n}"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "BUTTON"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

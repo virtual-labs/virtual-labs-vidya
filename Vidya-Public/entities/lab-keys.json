@@ -1,0 +1,9 @@
+{
+  "id": "6f307c68-2789-4a92-89f4-5018e4fd830c",
+  "name": "lab-keys",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

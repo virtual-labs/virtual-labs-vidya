@@ -1,0 +1,70 @@
+[
+  {
+    "id": "2c309b88-0717-4a02-9073-76beaab9b558",
+    "data": [
+      {
+        "text": "It is ",
+        "userDefined": false
+      },
+      {
+        "text": "CentOS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8659cb72-75af-42b1-a9db-eaafde9b073e",
+    "data": [
+      {
+        "text": "My operating system is ",
+        "userDefined": false
+      },
+      {
+        "text": "CentOS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99e95684-99ff-4931-be06-b5c7a1ac744b",
+    "data": [
+      {
+        "text": "My OS is ",
+        "userDefined": false
+      },
+      {
+        "text": "CentOS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "935fc030-a1ac-4e2e-bba7-257f875bd26e",
+    "data": [
+      {
+        "text": "CentOS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "id": "1945861b-20b1-408a-86bb-5f3e2f09801c",
+  "name": "experiment-results",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Virtual Labs will provide to the students the result of an experiment by one of the following methods (or possibly a combination):\n\n1)Modelling the physical phenomenon by a set of equations and carrying out simulations to yield the result of the particular experiment.\n\n2)Providing a corresponding measurement data for the Virtual Lab experiment based previously carried out measurements on an actual system.\n\n3)Remotely triggering an experiment in an actual lab and providing the student the result of the experiment through the computer interface."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://example.com/images/logo.png"
+                    }
+                  },
+                  "text": "\u003col\u003e\u003cli\u003eModelling the physical phenomenon by a set of equations and carrying out simulations to yield the result of the particular experiment.\u003cli\u003eProviding a corresponding measurement data for the Virtual Lab experiment based previously carried out measurements on an actual system.\u003cli\u003eRemotely triggering an experiment in an actual lab and providing the student the result of the experiment through the computer interface.\u003c/ol\u003e",
+                  "type": "accordion",
+                  "title": "Experiment Results",
+                  "subtitle": "Virtual Labs will provide the result of an experiment to the students through one or more of the following methods."
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

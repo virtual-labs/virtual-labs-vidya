@@ -1,0 +1,116 @@
+{
+  "id": "7e26939a-5f59-49e9-9e11-4a6460ae2046",
+  "name": "chips-rich-content",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Suggestion chips response:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "slack",
+          "imageUrl": "https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/chip-item.png",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add the suggestion chips response type in Dialogflow Messenger with the following custom payload.\n\n\n{\n  \"richContent\": [\n    [\n      {\n        \"type\": \"chips\",\n        \"options\": [\n          {\n            \"text\": \"Chip 1\",\n            \"image\": {\n              \"src\": {\n                \"rawUrl\": \"https://example.com/images/logo.png\"\n              }\n            },\n            \"link\": \"https://example.com\"\n          },\n          {\n            \"text\": \"Chip 2\",\n            \"image\": {\n              \"src\": {\n                \"rawUrl\": \"https://example.com/images/logo.png\"\n              }\n            },\n            \"link\": \"https://example.com\"\n          }\n        ]\n      }\n    ]\n  ]\n}"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Suggestion chips response looks as follows:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "link": "https://example.com",
+                      "image": {
+                        "src": {
+                          "rawUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSGQhH9Z3XP90LxeXEoFIM_VcaL1M6R8ikMOw\u0026usqp\u003dCAU"
+                        }
+                      },
+                      "text": "Chip 1"
+                    },
+                    {
+                      "image": {
+                        "src": {
+                          "rawUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSGQhH9Z3XP90LxeXEoFIM_VcaL1M6R8ikMOw\u0026usqp\u003dCAU"
+                        }
+                      },
+                      "link": "https://example.com",
+                      "text": "Chip 2"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add the suggestion chips response type in Dialogflow Messenger with the following custom payload.\n\n\n{\r\n  \"richContent\": [\r\n    [\r\n      {\r\n        \"type\": \"chips\",\r\n        \"options\": [\r\n          {\r\n            \"text\": \"Chip 1\",\r\n            \"image\": {\r\n              \"src\": {\r\n                \"rawUrl\": \"https://example.com/images/logo.png\"\r\n              }\r\n            },\r\n            \"link\": \"https://example.com\"\r\n          },\r\n          {\r\n            \"text\": \"Chip 2\",\r\n            \"image\": {\r\n              \"src\": {\r\n                \"rawUrl\": \"https://example.com/images/logo.png\"\r\n              }\r\n            },\r\n            \"link\": \"https://example.com\"\r\n          }\r\n        ]\r\n      }\r\n    ]\r\n  ]\r\n}"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "CHIPS"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

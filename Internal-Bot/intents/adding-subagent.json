@@ -1,0 +1,49 @@
+{
+  "id": "f99c485c-7368-4d75-b670-a248404d4d04",
+  "name": "adding-subagent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1. Go to the Dialogflow ES Console.\u2028\nClick Create Agent in the left sidebar menu. (If you already have other agents, click the agent name, scroll to the bottom and click Create new agent.)\u2028 \nEnter your agent\u0027s name, default language, default time zone and GCP project.\u2028\u2028\n\n2. Click Sub Agents in the left sidebar menu ( of mega/parent agent ).\u2028Select a sub-agent you wish to add to the mega/parent agent.\u2028The sub-agent Environment defaults to Draft, but you can update this as needed.\u2028If you want to use the Knowledge Base associated with the sub-agent, change the field from Excluded to Included.\u2028 Click Save.\u2028\u2028\n\n3. For each subagent : \u2028\n* Visit the IAM main page.\n* Select the project for your sub-agent.\n* Add your mega agent\u0027s service account email address (service-648372792242@gcp-sa-dialogflow.iam.gserviceaccount.com) as members of the project, and give them access to Dialogflow API Client."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1. Go to the Dialogflow ES Console.\u2028\nClick Create Agent in the left sidebar menu. (If you already have other agents, click the agent name, scroll to the bottom and click Create new agent.)\u2028 \nEnter your agent\u0027s name, default language, default time zone and GCP project.\u2028\u2028\n\n2. Click Sub Agents in the left sidebar menu ( of mega/parent agent ).\u2028Select a sub-agent you wish to add to the mega/parent agent.\u2028The sub-agent Environment defaults to Draft, but you can update this as needed.\u2028If you want to use the Knowledge Base associated with the sub-agent, change the field from Excluded to Included.\u2028 Click Save.\u2028\u2028\n\n3. For each subagent : \u2028\n* Visit the IAM main page.\n* Select the project for your sub-agent.\n* Add your mega agent\u0027s service account email address (service-648372792242@gcp-sa-dialogflow.iam.gserviceaccount.com) as members of the project, and give them access to Dialogflow API Client."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "81756cd4-e84d-4fbd-be68-2413e2c7bd18",
+  "name": "requirements-onsite-workshops",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Requirements for onsite workshop\n\n\n1. Your institute must be AICTE/UGC state approved institute\n\n2. Good enough internet to access Virtual Labs web page, check Gmail and download Java\n\n3. Auditorium with at least 100 seats and common lab space with 35 PCs or more\n\n4. In the event that the Internet operates behind a firewall, the specific communication ports 3306, 5900, 5902, and 8700 would need to be opened to facilitate Virtual Labs network traffic."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "Requirements for onsite workshop",
+                  "text": [
+                    "1. Institute must be AICTE/UGC state approved institute",
+                    "2. Good enough internet to access Virtual Labs web page, check Gmail and download Java",
+                    "3. Auditorium with at least 100 seats and common lab space with 35 PCs or more",
+                    "4. In the event that the Internet operates behind a firewall, the specific communication ports 3306, 5900, 5902, and 8700 would need to be opened to facilitate Virtual Labs network traffic."
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

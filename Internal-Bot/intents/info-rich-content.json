@@ -1,0 +1,104 @@
+{
+  "id": "dd95da3a-3768-4931-8392-abe259440942",
+  "name": "info-rich-content",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Info type response:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "slack",
+          "imageUrl": "https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/info-item.png",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add the Info response type in Dialogflow Messenger with the following custom payload.\n\n\n{\t\n  \"richContent\": [\t\n    [\t\n      {\n        \"type\": \"info\",\t\n        \"title\": \"Info item title\",\t\n        \"subtitle\": \"Info item subtitle\",\t\n        \"image\": {\t\n          \"src\": {\t\n            \"rawUrl\": \"https://example.com/images/logo.png\"\t\n          }\t\n        },\t\n        \"actionLink\": \"https://example.com\"\t\n      }\t\n    ]\t\n  ]\t\n}"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Info response looks as follows:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "actionLink": "https://example.com",
+                  "type": "info",
+                  "subtitle": "Info item subtitle",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSGQhH9Z3XP90LxeXEoFIM_VcaL1M6R8ikMOw\u0026usqp\u003dCAU"
+                    }
+                  },
+                  "title": "Info item title"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add the Info response type in Dialogflow Messenger with the following custom payload.\n\n\n{\t\n  \"richContent\": [\t\n    [\t\n      {\n        \"type\": \"info\",\t\n        \"title\": \"Info item title\",\t\n        \"subtitle\": \"Info item subtitle\",\t\n        \"image\": {\t\n          \"src\": {\t\n            \"rawUrl\": \"https://example.com/images/logo.png\"\t\n          }\t\n        },\t\n        \"actionLink\": \"https://example.com\"\t\n      }\t\n    ]\t\n  ]\t\n}"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "INFO"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

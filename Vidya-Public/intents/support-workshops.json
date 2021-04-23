@@ -1,0 +1,60 @@
+{
+  "id": "e758e55e-7d8e-4a37-9942-90bb4ef19674",
+  "name": "support-workshops",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can get help on workshops and other Virtual Labs related issues by posting on the mailing list for engineers contributing to Virtual Labs. You may Subscribe/Unsubscribe to the engineers mailing list. You can also post your queries to the teacher\u0027s community.\n\nMailing list : https://groups.google.com/a/vlabs.ac.in/g/engineers?pli\u003d1\n\nTeacher\u0027s community : https://currents.google.com/u/1/communities/104131148292250423165"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://example.com/images/logo.png"
+                    }
+                  },
+                  "text": "\u003cp\u003eYou can get help on workshops and other Virtual Labs related issues by posting on the mailing list for engineers contributing to Virtual Labs. You may \u003ca href\u003d\u0027https://groups.google.com/a/vlabs.ac.in/g/engineers?pli\u003d1\u0027\u003eSubscribe/Unsubscribe to the engineers\u003c/a\u003e mailing list. You can also post your queries to the \u003ca href\u003dhttps://currents.google.com/u/1/communities/104131148292250423165\u003eteacher\u0027s community\u003c/a\u003e.",
+                  "title": "Workshop support",
+                  "subtitle": "You can get help through mailing list or teacher\u0027s community",
+                  "type": "accordion"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

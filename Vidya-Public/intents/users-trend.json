@@ -1,0 +1,72 @@
+{
+  "id": "24eab5ae-b78d-428c-bd79-bfe1776e476a",
+  "name": "users-trend",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "slack",
+          "imageUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSAvfWhvZ6Jn0hoPgxO_HiHwvnGX9ItyeMFOpmtzNfa7xvkKWhkdYNIaF7TboAAIoaFGIwk7Ck9UQjA/pubchart?oid\u003d1608516071\u0026format\u003dimage",
+          "title": "Users Trend",
+          "buttons": [
+            {
+              "postback": "https://vlead.vlabs.ac.in/analytics",
+              "text": "View more"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "rawUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSAvfWhvZ6Jn0hoPgxO_HiHwvnGX9ItyeMFOpmtzNfa7xvkKWhkdYNIaF7TboAAIoaFGIwk7Ck9UQjA/pubchart?oid\u003d1608516071\u0026format\u003dimage",
+                  "accessibilityText": "Users Trend"
+                },
+                {
+                  "link": "https://vlead.vlabs.ac.in/analytics",
+                  "event": {
+                    "languageCode": "",
+                    "parameters": {},
+                    "name": ""
+                  },
+                  "type": "button",
+                  "text": "View more",
+                  "icon": {
+                    "type": "link",
+                    "color": "#FF9800"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

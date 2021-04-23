@@ -1,0 +1,73 @@
+{
+  "id": "6512bfca-23d8-40bc-a56a-626b26ecbeea",
+  "name": "link-to-faq",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "https://vlead.vlabs.ac.in/labs-faq"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "https://vlead.vlabs.ac.in/labs-faq"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": "Virtual Labs FAQs",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "link"
+                  },
+                  "event": {
+                    "languageCode": "",
+                    "name": "",
+                    "parameters": {}
+                  },
+                  "type": "button",
+                  "link": "https://vlead.vlabs.ac.in/labs-faq"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

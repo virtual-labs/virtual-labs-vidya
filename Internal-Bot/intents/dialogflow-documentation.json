@@ -1,0 +1,60 @@
+{
+  "id": "0e49f07d-a5bc-47a2-9e1f-2d7c89e2695f",
+  "name": "dialogflow-documentation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "slack",
+          "title": "Dialogflow Documentation",
+          "buttons": [
+            {
+              "postback": "https://cloud.google.com/dialogflow/es/docs/",
+              "text": "Click to view docs"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "type": "button",
+            "text": "Dialogflow Documentation",
+            "event": {
+              "parameters": {},
+              "name": "",
+              "languageCode": ""
+            },
+            "link": "https://cloud.google.com/dialogflow/es/docs/",
+            "icon": {
+              "color": "#FF9800",
+              "type": "link"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

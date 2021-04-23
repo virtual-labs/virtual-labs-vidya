@@ -1,0 +1,219 @@
+[
+  {
+    "id": "f7f19719-6899-4412-9350-766406924566",
+    "data": [
+      {
+        "text": "sum of views?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afcead13-2d39-466c-9d53-82e765c385c1",
+    "data": [
+      {
+        "text": "total views?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf8cbb5c-795c-4c37-95f5-642697439470",
+    "data": [
+      {
+        "text": "overall views?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4bbd7a6-9d81-445c-99f1-767f93c93a01",
+    "data": [
+      {
+        "text": "current views?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "094130b3-7e21-4bf8-bd03-a60e8f7a2a5a",
+    "data": [
+      {
+        "text": "views current number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a34c4cf6-b0e1-4007-8a9b-e4f37ced6e14",
+    "data": [
+      {
+        "text": "views?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b7b00ee-4ad5-4a6d-abbf-83163a9c3681",
+    "data": [
+      {
+        "text": "How many times the Virtual Labs page has been opened?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36d1dcf2-e679-49d8-aef1-bf3e7185341c",
+    "data": [
+      {
+        "text": "Pageviews metrics?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7081dfd9-c7b5-41f9-92dc-f4a222fb5714",
+    "data": [
+      {
+        "text": "How many people have viewed Virtual Labs so far",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2459d471-a619-4e02-9b07-b342175832fc",
+    "data": [
+      {
+        "text": "Tell me how many people have visited Virtual Labs website",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5bf8b31-ae95-489d-9220-c24c40725f73",
+    "data": [
+      {
+        "text": "Cumulative pageviews?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e66ec897-b73b-4dce-b525-4874e5c40921",
+    "data": [
+      {
+        "text": "Virtual Labs pageviews?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20db91b3-5936-4ed1-904f-b329229acc95",
+    "data": [
+      {
+        "text": "How many pageviews ",
+        "userDefined": false
+      },
+      {
+        "text": "since January 2020",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba72b8a7-b56f-4840-b020-c27437a19d6b",
+    "data": [
+      {
+        "text": "Current status of views?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05e1fc5b-5e41-44bd-8951-8072b46ad555",
+    "data": [
+      {
+        "text": "Virtual Lab cumulative pageviews till now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2eed3c0a-68e1-4c6d-b28e-dc9fdd510bd5",
+    "data": [
+      {
+        "text": "Total Virtual Labs pageviews?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

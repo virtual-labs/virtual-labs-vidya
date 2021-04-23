@@ -1,0 +1,54 @@
+{
+  "id": "cb5a2089-782c-406e-9e87-2f0b51919f2e",
+  "name": "top-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "33f3ebf8-0593-4e5a-b49c-bc822ba36a48",
+          "name": "labslimit",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$labslimit",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1. Digital Electronics\n\n2. Basic Electronics Virtual Lab\n\n3. Virtual Strength of Materials Lab\n\n4. Electrical Machines\n\n5. Analog Signals, Networks and Measurement Lab"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

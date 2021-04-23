@@ -1,0 +1,58 @@
+{
+  "id": "7e2167f5-a017-453d-9a54-cc57c93b0c0b",
+  "name": "install-virtuallabs - Windows",
+  "auto": true,
+  "contexts": [
+    "install-virtuallabs-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "install-virtuallabs.install-virtuallabs-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Virtual Labs Installation - Windows",
+                  "subtitle": "Follow these steps",
+                  "type": "accordion",
+                  "text": "\u003ch4\u003eInstallation steps for Windows\u003c/h4\u003e\u003col\u003e\u003cli\u003eDownload VirtualBox from the \u003ca href\u003dhttps://www.virtualbox.org/wiki/Downloads\u003elink\u003c/a\u003e.\u003cli\u003eClick on Windows hosts and click on ok to download the file. .exe file is downloaded.\u003cli\u003eDouble click on the .exe file and run the setup of VirtualBox.\u003cli\u003eClick on the Run button\u003c/li\u003e\u003ccenter\u003e\u003cimg src\u003dhttps://raw.githubusercontent.com/virtual-labs/ph3-exp-dev-process/main/virtual-box/images/img1.png\u003e\u003cbr\u003e\u003c/center\u003e\u003ccenter\u003e\u003cimg src\u003dhttps://raw.githubusercontent.com/virtual-labs/ph3-exp-dev-process/main/virtual-box/images/img2.png\u003e\u003cbr\u003e\u003c/center\u003e\u003cli\u003eClick on Next button and follow the instructions to complete the installation.\u003cli\u003eAfter the installation, Click on Finish to complete the installation.\u003cli\u003eAfter installation, ensure that a VirtualBox icon is created on the desktop.\u003c/ol\u003e\u003ch4\u003eImporting Virtual Labs OS Image to VirtualBox\u003c/h4\u003e\u003cp\u003eSteps to import Ubuntu ( .ova file )in VirtualBox :\u003cp\u003e\u003cstrong\u003eNote :\u003c/strong\u003e The import steps need to be done only once.\u003col\u003e\u003cli\u003eClick on the \u003ca href\u003dhttps://gitlab.com/SRIP/ubuntu-os/-/blob/master/ubuntu-virtualbox.ova\u003elink\u003c/a\u003e to download the Ubuntu OS image file and save the \u003cstrong\u003eubuntu-14.04-college-cloud.ova\u003c/strong\u003e in your machine.\u003cli\u003eClick on the \u003cstrong\u003eVirtualBox\u003c/strong\u003e Icon to open.\u003cli\u003eClick on \u003cstrong\u003eFile\u003c/strong\u003e on the top left corner of the screen and select \u003cstrong\u003eImport Appliances\u003c/strong\u003e.\u003cli\u003e\u003cstrong\u003eApplication to import\u003c/strong\u003e window will pop up.\u003c/ol\u003e\u003ccenter\u003e\u003cimg src\u003dhttps://raw.githubusercontent.com/virtual-labs/ph3-exp-dev-process/main/virtual-box/images/img3.png\u003e\u003cbr\u003e\u003c/center\u003e\u003ccenter\u003e\u003cimg src\u003dhttps://raw.githubusercontent.com/virtual-labs/ph3-exp-dev-process/main/virtual-box/images/img4.png\u003e\u003cbr\u003e\u003c/center\u003e\u003col start\u003d5\u003e\u003cli\u003eBrowse the downloaded file by clicking on the \u003cstrong\u003ebrowse\u003c/strong\u003e button.\u003cli\u003eClick on the selected file and click on \u003cstrong\u003eOpen\u003c/strong\u003e.\u003c/ol\u003e\u003ccenter\u003e\u003cimg src\u003dhttps://raw.githubusercontent.com/virtual-labs/ph3-exp-dev-process/main/virtual-box/images/img5.png\u003e\u003cbr\u003e\u003c/center\u003e\u003ccenter\u003e\u003cimg src\u003dhttps://raw.githubusercontent.com/virtual-labs/ph3-exp-dev-process/main/virtual-box/images/img6.png\u003e\u003cbr\u003e\u003c/center\u003e\u003col start\u003d7\u003e\u003cli\u003eClick on import to start the import setup.\u003cli\u003eClick on next to start importing the downloaded file.\u003c/ol\u003e\u003ccenter\u003e\u003cimg src\u003dhttps://raw.githubusercontent.com/virtual-labs/ph3-exp-dev-process/main/virtual-box/images/img7.png\u003e\u003cbr\u003e\u003c/center\u003e\u003col start\u003d9\u003e\u003cli\u003eThe importing process looks as below:\u003c/ol\u003e\u003ccenter\u003e\u003cimg src\u003dhttps://raw.githubusercontent.com/virtual-labs/ph3-exp-dev-process/main/virtual-box/images/img8.png\u003e\u003cbr\u003e\u003c/center\u003e\u003col start\u003d10\u003e\u003cli\u003eThis may take 5 to 10 minutes to complete the import process.\u003cli\u003eAfter the completion of importing, you can find the ubuntu-virtualbox in the VirtualBox window on the left side menu.\u003cli\u003eDouble click on the Ubuntu-14.04-college-cloud.\u003cli\u003eYou can find the Ubuntu OS, it prompts to enter a password.\u003cli\u003ePassword for the OS is “cc”.\u003c/ol\u003e\u003cp\u003e\u003cstrong\u003eNOTE:\u003c/strong\u003e Select the \u003cstrong\u003eubuntu-14.04-college-cloud\u003c/strong\u003e from the VirtualBox window and allocate the Processor and Memory/RAM size from the Settings menu appropriately based on the system configuration of the user machine.\u003ch4\u003eRecommended Settings for the Imported VirtualBox\u003c/h4\u003e\u003cul\u003e\u003cli\u003eProcessor --\u003e Single.\u003cli\u003eMemory/RAM size --\u003e 2GB or 4GB according to your RAM Size.\u003c/ul\u003e\u003ccenter\u003e\u003cimg src\u003dhttps://raw.githubusercontent.com/virtual-labs/ph3-exp-dev-process/main/virtual-box/images/img9.png\u003e\u003cbr\u003e\u003c/center\u003e\u003cul\u003e\u003cli\u003ePlease change the network setting in your Virtualization software for the imported image from \u003cstrong\u003eBridge adapter\u003c/strong\u003e to \u003cstrong\u003eNat\u003c/strong\u003e.\u003c/ul\u003e\u003ccenter\u003e\u003cimg src\u003dhttps://raw.githubusercontent.com/virtual-labs/ph3-exp-dev-process/main/virtual-box/images/img10.png\u003e\u003cbr\u003e\u003c/center\u003e\u003cul\u003e\u003cli\u003e\u003cstrong\u003eDo not update or upgrade any application in it.\u003c/strong\u003e\u003c/ul\u003e\u003ch4\u003eRunning Virtual Labs Simulation in VirtualBox\u003c/h4\u003e\u003col\u003e\u003cli\u003eOpen Virtualbox.\u003cli\u003eClick on Ubuntu-14.04-college-cloud from the left menu bar.\u003cli\u003eEnter password \u003cem\u003ecc\u003c/em\u003e.\u003cli\u003eOpen Firefox (web browser) and type \u003ca href\u003dhttps://www.vlab.co.in/ \u003ehttp://vlab.co.in/\u003c/a\u003e.\u003cli\u003eScroll the page down to Participating Institutes and click on IIITH logo or click on the \u003ca href\u003dhttps://www.vlab.co.in/participating-institute-iiit-hyderabad\u003elink\u003c/a\u003e.\u003cli\u003eChoose any lab that you would like to perform.\u003cli\u003eIntroduction page is loaded. Now click on List of Experiments.\u003cli\u003eClick on any of the Experiment.\u003cli\u003eSelect any Experiment and click on Simulation/Experiment in the side menu bar to perform the experiment.\u003cli\u003eOnce you are done performing the experiment you can test your learnings in the Quizzes section.\u003cli\u003eFollowing the above steps, you can explore any number of labs and experiments of Virtual Labs.\u003c/ol\u003e",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://www.virtualbox.org/graphics/vbox_logo2_gradient.png"
+                    }
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

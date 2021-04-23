@@ -1,0 +1,161 @@
+[
+  {
+    "id": "2cbc0202-40c2-4123-8cb3-84c5ec78b3b2",
+    "data": [
+      {
+        "text": "I am stuck in ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be5389e7-5bdc-4af8-93ae-5b912e40e54e",
+    "data": [
+      {
+        "text": "I am stuck, whom can I email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3c11998-23f5-4bae-8d5a-0f8cf15ad840",
+    "data": [
+      {
+        "text": "What is the contact point for help in ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8da0e4d-0f8d-4e14-a093-063ae909fea2",
+    "data": [
+      {
+        "text": "Whom do I mail if I get stuck?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a89295b-2a3c-4187-a988-22493a5613e0",
+    "data": [
+      {
+        "text": "Whom can I contact if I get stuck while using ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a487faf-9ff2-4b9e-bdd4-70bd9b5a91cb",
+    "data": [
+      {
+        "text": "Where do I send my concerns?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b13a932-6b61-4864-9510-f521046a2747",
+    "data": [
+      {
+        "text": "Virtual lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " support email ID?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ee6c2b2-a218-4054-a30e-aad7cd83f1fc",
+    "data": [
+      {
+        "text": "Virtual lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " help email ID?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab36a053-c4f1-43ba-b8c7-c2392b0ea45c",
+    "data": [
+      {
+        "text": "How do I contact ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " people for support?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

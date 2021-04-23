@@ -1,0 +1,65 @@
+{
+  "id": "9fca08bf-2e7e-448e-9ae1-fe401857a08d",
+  "name": "twitter-page",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "https://twitter.com/TheVirtualLabs"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "button",
+                  "text": "Twitter account",
+                  "event": {
+                    "name": "",
+                    "languageCode": "",
+                    "parameters": {}
+                  },
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "link"
+                  },
+                  "link": "https://twitter.com/TheVirtualLabs"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

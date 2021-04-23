@@ -1,0 +1,485 @@
+[
+  {
+    "id": "de8e90a8-9f24-430e-905b-eaeebc72d244",
+    "data": [
+      {
+        "text": "give me a list of ",
+        "userDefined": false
+      },
+      {
+        "text": "ten",
+        "meta": "@sys.number",
+        "alias": "labslimit",
+        "userDefined": false
+      },
+      {
+        "text": " best labs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13bef920-c0b7-4dee-904f-f35e9e212587",
+    "data": [
+      {
+        "text": "which r the best labs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4e9a6ba-956b-42ab-ac5c-a88bcccbbc4d",
+    "data": [
+      {
+        "text": "best labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2565fc37-ec61-4c14-97e8-527013a20278",
+    "data": [
+      {
+        "text": "best ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "labslimit",
+        "userDefined": false
+      },
+      {
+        "text": " labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cca9cbc-f7fd-4672-a735-6f432356a208",
+    "data": [
+      {
+        "text": "Top labs according to pageviews",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ca7a6a1-5e70-477b-94db-98252e08eee0",
+    "data": [
+      {
+        "text": "Most watched labs since january ",
+        "userDefined": false
+      },
+      {
+        "text": "2020",
+        "meta": "@sys.number",
+        "alias": "labslimit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4537fb1b-145f-4586-959d-4d1bf7bfcc4d",
+    "data": [
+      {
+        "text": "Give me a list of top labs \u0026 their pageviews",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ceb6e754-fd9d-41a3-82de-19cf0c018432",
+    "data": [
+      {
+        "text": "Most watched ",
+        "userDefined": false
+      },
+      {
+        "text": "seven",
+        "meta": "@sys.number",
+        "alias": "labslimit",
+        "userDefined": false
+      },
+      {
+        "text": " labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13fcaad3-bfcd-412e-b8f7-066fa63b5aec",
+    "data": [
+      {
+        "text": "Most popular labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55d5b2fc-e376-44e7-b648-7a39644dc459",
+    "data": [
+      {
+        "text": "Most used ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "labslimit",
+        "userDefined": false
+      },
+      {
+        "text": " labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ed5b442-6cda-4c7e-8fdb-1f73b899dfde",
+    "data": [
+      {
+        "text": "Which ",
+        "userDefined": false
+      },
+      {
+        "text": "four",
+        "meta": "@sys.number",
+        "alias": "labslimit",
+        "userDefined": false
+      },
+      {
+        "text": " virtual labs have most viewes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "745640b7-5d92-40a8-a5cd-2555dd455075",
+    "data": [
+      {
+        "text": "Which ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "labslimit",
+        "userDefined": false
+      },
+      {
+        "text": " lab has most pageviews?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12e3b27d-ea75-4164-b7ef-5dc27b8ba9e1",
+    "data": [
+      {
+        "text": "Which are the most viewed ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "labslimit",
+        "userDefined": false
+      },
+      {
+        "text": " labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdff0dc4-85bf-4435-80da-a262b5189c16",
+    "data": [
+      {
+        "text": "List of top ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.number",
+        "alias": "labslimit",
+        "userDefined": false
+      },
+      {
+        "text": " labs according to pageviews",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1df1f8a5-c6ee-40f8-a680-627ca4f76e8d",
+    "data": [
+      {
+        "text": "Most viewed ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.number",
+        "alias": "labslimit",
+        "userDefined": false
+      },
+      {
+        "text": " labs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b082f05-1d34-4225-9338-3c7c5b79956a",
+    "data": [
+      {
+        "text": "Most viewed labs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25d11cc5-1a20-4629-9179-50fa03c676b0",
+    "data": [
+      {
+        "text": "List of top labs according to pageviews",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7943083-bdc8-4781-b15c-dfb844060341",
+    "data": [
+      {
+        "text": "Top labs in Virtual Labs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "717e7e87-718b-4396-87ec-47522b9bcf7b",
+    "data": [
+      {
+        "text": "Top labs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aea03919-3efe-440d-88f9-d4370463870e",
+    "data": [
+      {
+        "text": "Give me a list of top labs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fe70b24-e07c-45bd-87be-1a37c1bd4cdb",
+    "data": [
+      {
+        "text": "Top ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.number",
+        "alias": "labslimit",
+        "userDefined": false
+      },
+      {
+        "text": " labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65a978fe-c9b9-403b-a4fa-49ea1b7f6a6e",
+    "data": [
+      {
+        "text": "Which are the top ",
+        "userDefined": false
+      },
+      {
+        "text": "six",
+        "meta": "@sys.number",
+        "alias": "labslimit",
+        "userDefined": false
+      },
+      {
+        "text": " labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50b0df3b-c6ef-493f-9d9f-24997a03a77a",
+    "data": [
+      {
+        "text": "Which are the top ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "labslimit",
+        "userDefined": false
+      },
+      {
+        "text": " labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "502c2f89-f645-4631-912d-c7f54190b4a8",
+    "data": [
+      {
+        "text": "Which are the top ",
+        "userDefined": false
+      },
+      {
+        "text": "labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d40bc91d-ab2e-4ded-9e0c-cae763813264",
+    "data": [
+      {
+        "text": "Give me a list of top ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be3eefa9-2419-4dc6-9291-14f06d9a4bed",
+    "data": [
+      {
+        "text": "Top ",
+        "userDefined": false
+      },
+      {
+        "text": "labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

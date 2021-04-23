@@ -1,0 +1,158 @@
+[
+  {
+    "id": "1b4c42d2-ba75-492d-b163-fc0de814b8a2",
+    "data": [
+      {
+        "text": "requirements for VirtualBox?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31125a6d-a244-41ed-87ae-8cb55a5b188f",
+    "data": [
+      {
+        "text": "Sys config for local running virtual labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75798b35-65e1-4b58-b66e-fc7be7dda5d8",
+    "data": [
+      {
+        "text": "Sys config for running virtual box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48cf361f-e687-4977-93cc-46841bc4e1f3",
+    "data": [
+      {
+        "text": "System config for running virtual labs locally?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54e4d593-9d74-4a5c-b657-d4cbcae738ff",
+    "data": [
+      {
+        "text": "System requirements for installing virtual labs in virtualbox?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00468485-5e41-4e27-b86b-bcf332e3e30b",
+    "data": [
+      {
+        "text": "System requirements for running virtual box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d77788e-870d-4a18-b555-c86dc131a71e",
+    "data": [
+      {
+        "text": "System requirements for running virtual labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc7c4727-6bfa-4628-a225-44e68b749bcd",
+    "data": [
+      {
+        "text": "Recommended system requirements for running Virtual Labs in Virtual box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5aff34f9-2562-4674-bb3f-a08bef126cd2",
+    "data": [
+      {
+        "text": "Sys req to run Virtual Labs in Virtual Box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "676e577b-6a33-4312-a06c-d4825ea3479c",
+    "data": [
+      {
+        "text": "System requirements to run Virtual box locally?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cd9b832-1e3a-4f70-9f1a-bb7297a1874a",
+    "data": [
+      {
+        "text": "What are the system requirements to run Virtual Labs in a Virtual Box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df73e040-320b-4efe-a07b-2662cddbe321",
+    "data": [
+      {
+        "text": "What are the system requirements to run VirtualBox?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

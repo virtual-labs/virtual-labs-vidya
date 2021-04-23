@@ -1,0 +1,198 @@
+[
+  {
+    "id": "7254859a-a81b-4543-81d3-9421d890c58d",
+    "data": [
+      {
+        "text": "Workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " queries or issues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b52e6b08-ac8b-4133-b7d7-97ea63bcbcae",
+    "data": [
+      {
+        "text": "Workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b752b5f-f463-4bd8-b49d-3789d1c8f3e6",
+    "data": [
+      {
+        "text": "Workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7a6da93-81f8-475d-8629-23fdd345e3b9",
+    "data": [
+      {
+        "text": "I need support regarding ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ba3f787-1061-406a-9b11-1cb06e90cbfa",
+    "data": [
+      {
+        "text": "Whom can I mail regarding ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " issues?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9de9b3e0-36a7-41f6-9b49-f98baa4351e1",
+    "data": [
+      {
+        "text": "Mailing list support for ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63807925-df3b-4495-a3e8-79dd446b371d",
+    "data": [
+      {
+        "text": "Workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " related support?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04926de9-a807-41c0-9eeb-48e0aba24319",
+    "data": [
+      {
+        "text": "Support ",
+        "userDefined": false
+      },
+      {
+        "text": "on workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebc2a717-4752-4799-bb54-dba7f0017c45",
+    "data": [
+      {
+        "text": "Where can I get support on ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

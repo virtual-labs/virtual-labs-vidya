@@ -1,0 +1,54 @@
+{
+  "id": "04b7f642-3054-4906-84ea-8c8b3e24734b",
+  "name": "top-disciplines",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "12bc1429-7cae-4411-b6a0-b880ecc87ca6",
+          "name": "limit",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$limit",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1. Electronics \u0026 Communications Engineering\n2. Civil Engineering\n3. Electrical Engineering\n4. Computer Science \u0026 Engineering\n5. Physical Sciences"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

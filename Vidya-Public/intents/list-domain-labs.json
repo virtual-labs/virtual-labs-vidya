@@ -1,0 +1,223 @@
+{
+  "id": "25dc6dd1-25d5-4c1b-9f7c-ed1461712175",
+  "name": "list-domain-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.listoflabs",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "slack",
+          "subtitle": "Please click a domain to see corresponding labs",
+          "title": "Broad Areas",
+          "buttons": [
+            {
+              "postback": "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
+              "text": "Computer Science \u0026 Engineering Labs"
+            },
+            {
+              "postback": "https://www.vlab.co.in/broad-area-mechanical-engineering",
+              "text": "Mechanical Engineering Labs"
+            },
+            {
+              "postback": "https://www.vlab.co.in/broad-area-electronics-and-communications",
+              "text": "Electronics \u0026 Communications"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "slack",
+          "title": "Domains \u0026 Labs",
+          "buttons": [
+            {
+              "postback": "https://www.vlab.co.in/broad-area-electrical-engineering",
+              "text": "Electrical Engineering Labs"
+            },
+            {
+              "postback": "https://www.vlab.co.in/broad-area-chemical-engineering",
+              "text": "Chemical Engineering Labs"
+            },
+            {
+              "postback": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering",
+              "text": "Biotechnology \u0026 Biomedical Eng Labs"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "slack",
+          "title": "Domains \u0026 Labs",
+          "buttons": [
+            {
+              "postback": "https://www.vlab.co.in/broad-area-civil-engineering",
+              "text": "Civil Engineering"
+            },
+            {
+              "postback": "https://www.vlab.co.in/broad-area-physical-sciences",
+              "text": "Physical Sciences"
+            },
+            {
+              "postback": "https://www.vlab.co.in/broad-area-chemical-sciences",
+              "text": "Chemical Sciences"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Click any of these domains to see corresponding labs."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "link"
+                  },
+                  "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
+                  "text": "Computer Science Labs",
+                  "type": "button"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "link": "https://www.vlab.co.in/broad-area-mechanical-engineering",
+                  "type": "button",
+                  "icon": {
+                    "type": "link",
+                    "color": "#FF9800"
+                  },
+                  "text": "Mechanical Engineering Labs"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "button",
+                  "text": "Electronics \u0026 Communication Labs",
+                  "link": "https://www.vlab.co.in/broad-area-electronics-and-communications",
+                  "icon": {
+                    "type": "link",
+                    "color": "#FF9800"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "text": "Electrical Engineering Labs",
+                  "type": "button",
+                  "icon": {
+                    "type": "link",
+                    "color": "#FF9800"
+                  },
+                  "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "button",
+                  "link": "https://www.vlab.co.in/broad-area-chemical-engineering",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "link"
+                  },
+                  "text": "Chemical Engineering Labs"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "link"
+                  },
+                  "text": "Biotech \u0026 Biomedical Engineering Labs",
+                  "type": "button",
+                  "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "link": "https://www.vlab.co.in/broad-area-civil-engineering",
+                  "text": "Civil Engineering Labs",
+                  "type": "button",
+                  "icon": {
+                    "type": "link",
+                    "color": "#FF9800"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "text": "Physical Sciences Labs",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "link"
+                  },
+                  "type": "button",
+                  "link": "https://www.vlab.co.in/broad-area-physical-sciences"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "button",
+                  "link": "https://www.vlab.co.in/broad-area-chemical-sciences",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "link"
+                  },
+                  "text": "Chemical Sciences Labs"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

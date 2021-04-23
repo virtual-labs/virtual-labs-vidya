@@ -1,0 +1,192 @@
+[
+  {
+    "id": "c1bbd899-aa82-4265-88db-f37e0653e2f1",
+    "data": [
+      {
+        "text": "Communication",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ports for ",
+        "userDefined": false
+      },
+      {
+        "text": "VLab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " network traffic?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8e906c2-0ec3-489c-8549-bc741bbb5a49",
+    "data": [
+      {
+        "text": "Ports for accessing ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " network?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04005de6-3e2f-4551-81c8-2cca9fdec24f",
+    "data": [
+      {
+        "text": "Can I access ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " from network with firewall?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f3f4b57-1949-4817-b30c-e28b3a4d1e5f",
+    "data": [
+      {
+        "text": "What care needs to be taken to access ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " with firewall?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f94e3c9-78d1-4cdd-8399-9331723e418c",
+    "data": [
+      {
+        "text": "What precautions to take to access ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " from behind firewall?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cd6ff4f-8ca3-4e40-94af-8dc0e30dd0fe",
+    "data": [
+      {
+        "text": "What precautions to take to access ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " network?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "126e927e-fade-4e3a-8416-d78f90a6812b",
+    "data": [
+      {
+        "text": "Which ports need to be opened behind firewall to access ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59f46e23-e9ef-4cdf-8b26-b3fdd5ed261f",
+    "data": [
+      {
+        "text": "Our ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " internet network has firewalls. Should any specific care be taken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

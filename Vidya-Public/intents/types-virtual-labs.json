@@ -1,0 +1,94 @@
+{
+  "id": "1d6a9cc8-8dd1-4a1a-984c-9355ec0c0794",
+  "name": "types-virtual-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are two types of Virtual Labs:\n\nSimulation Based Virtual Labs: In these Virtual Labs, the experiments are modeled using mathematical equations. The simulations are carried out remotely at a high end server, and the results are communicated to the student over the internet. This class of Virtual Labs, at best, mimics the real-world scenarios/experiments. Simulation based Virtual Labs are scalable and can cater to a large number of simultaneous users.\n\nRemote Triggered Virtual Labs: In these Virtual Labs, the actual experiments are triggered remotely. The output of the experiment (being conducted remotely) is communicated back to the student over the internet. This class of Virtual Labs, gives the student the output of real-time experiments. Remote Triggered Virtual Labs are difficult to scale and can cater to a limited number of users. Typically, time-slots are booked before conducting such experiments."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are two types of Virtual Labs:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Simulation Based Virtual Labs",
+                  "type": "accordion",
+                  "text": "The simulations are carried out remotely at a high end server, and the results are communicated to the student over the internet. This class of Virtual Labs, at best, mimics the real-world scenarios/experiments. Simulation based Virtual Labs are scalable and can cater to a large number of simultaneous users.",
+                  "subtitle": "In these Virtual Labs, the experiments are modeled using mathematical equations",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://example.com/images/logo.png"
+                    }
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://example.com/images/logo.png"
+                    }
+                  },
+                  "text": "The output of the experiment (being conducted remotely) is communicated back to the student over the internet. This class of Virtual Labs, gives the student the output of real-time experiments. Remote Triggered Virtual Labs are difficult to scale and can cater to a limited number of users. Typically, time-slots are booked before conducting such experiments.",
+                  "subtitle": "In these Virtual Labs, the experiments are triggered remotely",
+                  "title": "Remote Triggered Virtual Labs",
+                  "type": "accordion"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

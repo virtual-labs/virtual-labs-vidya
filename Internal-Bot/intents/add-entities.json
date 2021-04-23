@@ -1,0 +1,57 @@
+{
+  "id": "9b6e5172-1c7f-41bb-9320-56c548d3bec7",
+  "name": "add-entities",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Check out\n\nhttps://cloud.google.com/dialogflow/es/docs/entities-overview"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "type": "button",
+            "icon": {
+              "type": "link",
+              "color": "#FF9800"
+            },
+            "text": "Entities",
+            "link": "https://cloud.google.com/dialogflow/es/docs/entities-overview",
+            "event": {
+              "parameters": {},
+              "name": "",
+              "languageCode": ""
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

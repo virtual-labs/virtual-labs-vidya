@@ -1,0 +1,119 @@
+[
+  {
+    "id": "704b3108-d47b-4ae5-b20c-4764daa57e63",
+    "data": [
+      {
+        "text": "adding fulfillment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10ef9674-6e50-49b4-8ce9-ca1c2d34272c",
+    "data": [
+      {
+        "text": "add fullfilment ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "335c4402-2dfc-4325-b99b-292c78b7f76f",
+    "data": [
+      {
+        "text": "fulfilment steps?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8e82633-3249-49a7-8e89-c4aca5a4ee1b",
+    "data": [
+      {
+        "text": "fulfillment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba2b498b-9af0-4265-892b-dd9262441fd3",
+    "data": [
+      {
+        "text": "Steps for adding fulfillment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4b5c28d-8578-43fc-8223-03999cf3d39b",
+    "data": [
+      {
+        "text": "I want to write fulfillment code to an intent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae863311-2ad4-468c-95ef-2ba6b203e470",
+    "data": [
+      {
+        "text": "Tell me steps to add fulfillment to an intent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfc05c99-be07-401d-88d5-4c25d236edf4",
+    "data": [
+      {
+        "text": "Process of adding fulfillment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "587b7fe6-68cf-4640-93d5-8e0fc01beb11",
+    "data": [
+      {
+        "text": "How to add fulfillment to dialogflow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

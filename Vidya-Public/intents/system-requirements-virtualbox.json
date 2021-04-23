@@ -1,0 +1,52 @@
+{
+  "id": "987101c8-7068-425b-968a-3b5b650498fb",
+  "name": "system-requirements-virtualbox",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "System Requirements",
+                  "type": "accordion",
+                  "subtitle": "Running Virtual Labs in a Virtual Box",
+                  "text": "Any Operating System that supports Oracle VirtualBox, 4 GB RAM Memory, Any recent Inten or AMD Processor",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://www.techprevue.com/wp-content/uploads/2016/04/Oracle-VM-VirtualBox.jpg"
+                    }
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

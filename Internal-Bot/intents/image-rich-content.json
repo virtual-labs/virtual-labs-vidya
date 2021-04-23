@@ -1,0 +1,98 @@
+{
+  "id": "487deb62-6153-444d-b627-39eaeeabef9e",
+  "name": "image-rich-content",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Image response:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "slack",
+          "imageUrl": "https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/image-item.png",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add the Description response type in Dialogflow Messenger with the following custom payload.\n\n\n{\n  \"richContent\": [\n    [\n      {\n        \"type\": \"image\",\n        \"rawUrl\": \"https://example.com/images/logo.png\",\n        \"accessibilityText\": \"Example logo\"\n      }\n    ]\n  ]\n}"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Image response looks as follows:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "rawUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSGQhH9Z3XP90LxeXEoFIM_VcaL1M6R8ikMOw\u0026usqp\u003dCAU",
+                  "accessibilityText": "Example logo"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add the Image response type in Dialogflow Messenger with the following custom payload.\n\n\n{\n  \"richContent\": [\n    [\n      {\n        \"type\": \"image\",\n        \"rawUrl\": \"https://example.com/images/logo.png\",\n        \"accessibilityText\": \"Example logo\"\n      }\n    ]\n  ]\n}"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "IMAGE"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

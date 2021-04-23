@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1af8bc97-3e60-426b-b107-0e3bc808eb84",
+    "data": [
+      {
+        "text": "Where is Dialogflow messenger deployed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9d74f5a-d201-4ba6-b745-445b83342880",
+    "data": [
+      {
+        "text": "Dialogflow messenger?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cb4d7c7-9f25-43bf-b0d8-923e15fa1097",
+    "data": [
+      {
+        "text": "What is dialogflow messenger?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

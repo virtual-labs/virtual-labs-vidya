@@ -1,0 +1,193 @@
+[
+  {
+    "id": "3df6e369-e8fb-42f6-9c60-86311336d6c8",
+    "data": [
+      {
+        "text": "what all ",
+        "userDefined": false
+      },
+      {
+        "text": "colleges",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " will need to pay for the ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69c02392-f458-4389-9bf7-ba4a905bcc66",
+    "data": [
+      {
+        "text": "do ",
+        "userDefined": false
+      },
+      {
+        "text": "colleges",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " have to pay for ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "419b1fd1-6540-4341-b0e4-3cfadd7ad5a7",
+    "data": [
+      {
+        "text": "how much ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " needs to pay for the ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37f65d45-ea80-49cf-b6f8-345027b4c3ad",
+    "data": [
+      {
+        "text": "Workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " fees for ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aaa4d93e-5ab0-4e97-9a3f-196cad5004f0",
+    "data": [
+      {
+        "text": "What all does my ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " need to pay for ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3811a3d-9e47-4378-8645-aeaa1cfb416c",
+    "data": [
+      {
+        "text": "Does my ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " have to pay for the ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

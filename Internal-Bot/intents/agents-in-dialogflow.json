@@ -1,0 +1,73 @@
+{
+  "id": "8460e25d-08f6-4861-a4f9-48ac69e69b38",
+  "name": "agents-in-dialogflow",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1) Parent Bot : Skeleton bot which redirects requests to children subagents ( Vidya \u0026 Private bot ), parent bot can\u0027t have its own intents\n\n2) Vidya : Public facing bot, will consists of questions about virtual labs, workshops, FAQs, etc\n\n3) Private bot : Internal bot with coverage of Dialogflow process, internal links, etc"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "slack",
+          "imageUrl": "https://i.ibb.co/LY3jWwK/Bots.png",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1) Parent Bot : Skeleton bot which redirects requests to children subagents ( Vidya \u0026 Private bot ), parent bot can\u0027t have its own intents\n\n2) Vidya : Public facing bot, will consists of questions about virtual labs, workshops, FAQs, etc\n\n3) Private bot : Internal bot with coverage of Dialogflow process, internal links, etc"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "accessibilityText": "Bots heirarchy",
+                  "rawUrl": "https://i.ibb.co/LY3jWwK/Bots.png",
+                  "type": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "3fa238bb-fa64-47f7-b4c7-0183b100c578",
+  "name": "what-is-virtual-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "slack",
+          "imageUrl": "https://www.vlab.co.in/images/logo.jpg",
+          "subtitle": "Virtual Labs is an initiative by MHRD to provide remote-access to free educational Labs in various disciplines of Science and Engineering.",
+          "title": "Virtual Labs",
+          "buttons": [
+            {
+              "postback": "http://vlead.vlabs.ac.in",
+              "text": "Click for more info"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Virtual Labs",
+                  "actionLink": "http://vlead.vlabs.ac.in",
+                  "subtitle": "Virtual Labs is an initiative by MHRD to provide remote-access to free educational Labs in various disciplines of Science and Engineering.",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://www.vlab.co.in/images/logo.jpg"
+                    }
+                  },
+                  "type": "info"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

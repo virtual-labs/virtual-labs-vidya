@@ -1,0 +1,327 @@
+[
+  {
+    "id": "165107ed-d86b-42b3-970a-147c73966795",
+    "data": [
+      {
+        "text": "virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " previous ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@Virtual-Labs-Services",
+        "alias": "virtual-labs-services1",
+        "userDefined": false
+      },
+      {
+        "text": " list with ",
+        "userDefined": false
+      },
+      {
+        "text": "colleges",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "674ed57b-07cd-4c72-abf1-cb16cd63aedb",
+    "data": [
+      {
+        "text": "Institute",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " names with ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "525a0315-909c-4535-9caf-2bbe038c146a",
+    "data": [
+      {
+        "text": "Previous ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " count?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "704822f5-6621-44d8-836b-7f89665c4040",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " happened in what ",
+        "userDefined": false
+      },
+      {
+        "text": "colleges",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d2e1e55-c73e-45e5-acd0-1d194b26d7d6",
+    "data": [
+      {
+        "text": "List of ",
+        "userDefined": false
+      },
+      {
+        "text": "colleges",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " where ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " happeend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad65b8da-69a9-4c4f-8ad6-83a452135671",
+    "data": [
+      {
+        "text": "Past ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7bd3df7-548c-47a5-9032-928d1566890f",
+    "data": [
+      {
+        "text": "Where all ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " have been conducted?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa42e2fd-ea1e-480e-a90a-98e8b44be2e3",
+    "data": [
+      {
+        "text": "List of ",
+        "userDefined": false
+      },
+      {
+        "text": "colleges",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of where ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " happened?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39572615-8932-4dc9-b029-418efe3e9f51",
+    "data": [
+      {
+        "text": "List of previous ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fa8288b-de50-454c-91d6-a15e692ca1da",
+    "data": [
+      {
+        "text": "Give me a list of ",
+        "userDefined": false
+      },
+      {
+        "text": "colleges",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " where ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " took place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77b40487-596d-4ecf-80b3-2a552fcc2210",
+    "data": [
+      {
+        "text": "Where have the ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " been conducted?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "a06a49dd-95ea-49ec-a44b-9cb93ea1d92e",
+  "name": "lms-virtual-lab",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Virtual Lab provides a complete Leaning Management System with all the relevant material at one place including the Objectives of the Experiment, Procedure, Lab manual, Pre- and Post-experiment quizzes, additional Lab resources and question banks."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,250 @@
+[
+  {
+    "id": "eee2e24e-c0b4-49fe-b8bd-769a9b0391a4",
+    "data": [
+      {
+        "text": "sum of users?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "710aefee-4cf0-472f-b66e-6298f64c342f",
+    "data": [
+      {
+        "text": "overall users?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fea2832-b5e8-4f69-99f3-390cadc186bb",
+    "data": [
+      {
+        "text": "total users?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "593e612c-07f5-49c2-bec9-4c1153754c8d",
+    "data": [
+      {
+        "text": "current number of users?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9104d58b-c3f6-4202-a14e-46d25786ae50",
+    "data": [
+      {
+        "text": "current status of users?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70f2e914-dc0e-4cfd-9017-4eda10ef52cf",
+    "data": [
+      {
+        "text": "users metric?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47822f82-3e72-4ea3-9d5b-25921b33fa5f",
+    "data": [
+      {
+        "text": "users?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db6b5e1d-9756-4be1-8b0d-f896542547bd",
+    "data": [
+      {
+        "text": "How widespread is the user community of Virtual Labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c484141-4e0e-46b3-8644-bc92c2b4a506",
+    "data": [
+      {
+        "text": "How many students learn from Virtual Labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75c7daeb-070c-4ebf-88da-3c5d31c32f51",
+    "data": [
+      {
+        "text": "Please tell me number of Virtual Labs users",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c64047cd-f31e-4462-a02f-398970a7c03d",
+    "data": [
+      {
+        "text": "Total Virtual Labs Users?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48f7ee2c-001a-45c8-a330-b85c8490a5cb",
+    "data": [
+      {
+        "text": "Cumulative number of users since ",
+        "userDefined": false
+      },
+      {
+        "text": "last year",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4fb9b09-1a1e-4c94-aa08-8fad51d8c1e5",
+    "data": [
+      {
+        "text": "How many students use Virtual Labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9a2308b-196c-4bcb-a909-1086debd3191",
+    "data": [
+      {
+        "text": "Number of Virtual Lab users?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cc78b8c-8572-4a85-b7ee-e211a6a792a7",
+    "data": [
+      {
+        "text": "VLab users till now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a432a64-8450-414c-9c5a-18b55fda1adb",
+    "data": [
+      {
+        "text": "How many users use Virtual Lab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85d2bf1a-0e16-4b2f-9eae-0fe8a0ecc8c7",
+    "data": [
+      {
+        "text": "How many people use Virtual Labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "578c85ae-9c7f-4bcb-b5e7-a807005a2742",
+    "data": [
+      {
+        "text": "number of users ",
+        "userDefined": false
+      },
+      {
+        "text": "since january 2020",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

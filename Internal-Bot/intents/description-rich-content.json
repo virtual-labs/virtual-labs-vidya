@@ -1,0 +1,101 @@
+{
+  "id": "92cb6a56-c28b-40ef-bf02-3f1a046b2b04",
+  "name": "description-rich-content",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Description Response:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "slack",
+          "imageUrl": "https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/description-item.png",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add the Description response type in Dialogflow Messenger with the following custom payload.\n\n\n{\n  \"richContent\": [\n    [\n      {\n        \"type\": \"description\",\n        \"title\": \"Description title\",\n        \"text\": [\n          \"This is text line 1.\",\n          \"This is text line 2.\"\n        ]\n      }\n    ]\n  ]\n}"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Description response looks as follows:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "Description title",
+                  "text": [
+                    "This is text line 1.",
+                    "This is text line 2."
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add the Description response type in Dialogflow Messenger with the following custom payload.\n\n\n{\r\n  \"richContent\": [\r\n    [\r\n      {\r\n        \"type\": \"description\",\r\n        \"title\": \"Description title\",\r\n        \"text\": [\r\n          \"This is text line 1.\",\r\n          \"This is text line 2.\"\r\n        ]\r\n      }\r\n    ]\r\n  ]\r\n}"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "DESC"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "aae31b66-da2d-40c4-b7da-d0ede18ca77c",
+    "data": [
+      {
+        "text": "what is an intent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc279a4b-9027-4670-bead-b409f0a03996",
+    "data": [
+      {
+        "text": "I want to add more questions in the bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "013dbe1b-4e12-4609-aa81-0704ce664f5b",
+    "data": [
+      {
+        "text": "How do I add new stuff in dialogflow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5004b761-011c-45b1-b651-25fb17190970",
+    "data": [
+      {
+        "text": "Process of adding new intents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fed9ec78-1c8e-4e40-b8ab-8515ea949660",
+    "data": [
+      {
+        "text": "How do I convert FAQs to intents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3a9cc23-a707-4e3c-af08-4cf74a781071",
+    "data": [
+      {
+        "text": "How do I add intents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b496ee2-1bc8-4016-b1fb-e28a4903028f",
+    "data": [
+      {
+        "text": "How do i get started?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

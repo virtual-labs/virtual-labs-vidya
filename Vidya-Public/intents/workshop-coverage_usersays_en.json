@@ -1,0 +1,188 @@
+[
+  {
+    "id": "ac46761b-73b5-4d1c-8d0a-a465c599993d",
+    "data": [
+      {
+        "text": "Virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " what happens there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3241af7-0855-4731-b055-aa4630ec2439",
+    "data": [
+      {
+        "text": "What will i get to see in ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cb04fd1-46b4-46ca-ada2-0904b0fff197",
+    "data": [
+      {
+        "text": "What all covered during the ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e69f12ae-7e69-43f9-85a7-0741e224c5fe",
+    "data": [
+      {
+        "text": "Things that happen in a ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0433460a-b597-4380-a099-b95492502e0d",
+    "data": [
+      {
+        "text": "What will happen in ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2272afea-451a-4c4c-9a38-fd3c0768be66",
+    "data": [
+      {
+        "text": "What all will be there in ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32ab893c-097b-4f88-b133-12d41d8781de",
+    "data": [
+      {
+        "text": "What would be covered in the ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

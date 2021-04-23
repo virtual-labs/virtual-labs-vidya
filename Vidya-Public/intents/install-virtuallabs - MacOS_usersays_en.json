@@ -1,0 +1,98 @@
+[
+  {
+    "id": "81133d48-2dc1-47cd-b573-b94de588bceb",
+    "data": [
+      {
+        "text": "My operating system is ",
+        "userDefined": false
+      },
+      {
+        "text": "macOS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "daf2ca4e-3b69-4edd-a17b-1f57876d0053",
+    "data": [
+      {
+        "text": "My OS is ",
+        "userDefined": false
+      },
+      {
+        "text": "macOS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "108272fe-01e4-43f3-9661-a2f727910d8c",
+    "data": [
+      {
+        "text": "It is ",
+        "userDefined": false
+      },
+      {
+        "text": "MacOS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0aa89740-f480-478a-9a1b-28dee8cc77a7",
+    "data": [
+      {
+        "text": "OSX",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d5dea0e-da52-42c1-9862-6f8bc1abf46a",
+    "data": [
+      {
+        "text": "Mac",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0356f9e1-4af1-43fc-91df-6bba520ccdfa",
+    "data": [
+      {
+        "text": "MacOS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

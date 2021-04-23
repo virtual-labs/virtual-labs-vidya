@@ -1,0 +1,67 @@
+{
+  "id": "a94b0d06-17bb-4208-8907-95581b9fff3f",
+  "name": "what-is-dialogflow-messenger",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Dialogflow Messenger integration provides a customizable chat dialog for your agent that can be embedded in your website.\n\nThe Dialogflow agent for Vidya is deployed at \n\nhttp://vlead.vlabs.ac.in"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Dialogflow Messenger integration provides a customizable chat dialog for your agent that can be embedded in your website."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "link": "http://vlead.vlabs.ac.in",
+            "event": {
+              "parameters": {},
+              "name": "",
+              "languageCode": ""
+            },
+            "icon": {
+              "type": "link",
+              "color": "#FF9800"
+            },
+            "type": "button",
+            "text": "Vlead website ( Vidya agent )"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "125f70cc-d917-45b4-825d-8290cc320964",
+  "name": "workshop-college-fees",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "College/Institute will have to pay for the travel, lodging and boarding for two Virtual Labs representatives for an Onsite Workshop. Online workshops will not incur any expenditure for the college/institute."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Workshop college fees",
+                  "type": "description",
+                  "text": [
+                    "College/Institute will have to pay for the travel, lodging and boarding for two Virtual Labs representatives for an Onsite Workshop.",
+                    "Online workshops will not incur any expenditure for the college/institute."
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

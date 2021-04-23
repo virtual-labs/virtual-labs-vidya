@@ -1,0 +1,116 @@
+{
+  "id": "1599c355-4075-4e60-a8a0-7c4803da2ecd",
+  "name": "list-rich-content",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "List response:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "slack",
+          "imageUrl": "https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/list-item.png",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add the list response type in Dialogflow Messenger with the following custom payload.\n\n\n{\n  \"richContent\": [\n    [\n      {\n        \"type\": \"list\",\n        \"title\": \"List item 1 title\",\n        \"subtitle\": \"List item 1 subtitle\",\n        \"event\": {\n          \"name\": \"\",\n          \"languageCode\": \"\",\n          \"parameters\": {}\n        }\n      },\n      {\n        \"type\": \"divider\"\n      },\n      {\n        \"type\": \"list\",\n        \"title\": \"List item 2 title\",\n        \"subtitle\": \"List item 2 subtitle\",\n        \"event\": {\n          \"name\": \"\",\n          \"languageCode\": \"\",\n          \"parameters\": {}\n        }\n      }\n    ]\n  ]\n}"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "List response looks as follows:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "list",
+                  "subtitle": "List item 1 subtitle",
+                  "title": "List item 1 title",
+                  "event": {
+                    "parameters": {},
+                    "languageCode": "",
+                    "name": ""
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "event": {
+                    "parameters": {},
+                    "name": "",
+                    "languageCode": ""
+                  },
+                  "title": "List item 2 title",
+                  "subtitle": "List item 2 subtitle"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add the list response type in Dialogflow Messenger with the following custom payload.\n\n\n{\r\n  \"richContent\": [\r\n    [\r\n      {\r\n        \"type\": \"list\",\r\n        \"title\": \"List item 1 title\",\r\n        \"subtitle\": \"List item 1 subtitle\",\r\n        \"event\": {\r\n          \"name\": \"\",\r\n          \"languageCode\": \"\",\r\n          \"parameters\": {}\r\n        }\r\n      },\r\n      {\r\n        \"type\": \"divider\"\r\n      },\r\n      {\r\n        \"type\": \"list\",\r\n        \"title\": \"List item 2 title\",\r\n        \"subtitle\": \"List item 2 subtitle\",\r\n        \"event\": {\r\n          \"name\": \"\",\r\n          \"languageCode\": \"\",\r\n          \"parameters\": {}\r\n        }\r\n      }\r\n    ]\r\n  ]\r\n}"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "LIST"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

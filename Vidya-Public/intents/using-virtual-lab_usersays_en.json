@@ -1,0 +1,193 @@
+[
+  {
+    "id": "2d6d14c2-3ed4-41b6-b0b7-4ea8033c5e34",
+    "data": [
+      {
+        "text": "Money required for Virtual Labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "952726e7-a594-4078-b9d8-8773878f8f5c",
+    "data": [
+      {
+        "text": "Fees of Virtual Labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea91dbe7-7910-4802-96de-9d52d602a9c0",
+    "data": [
+      {
+        "text": "Who do I pay for Virtual lab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc86887e-a132-4b90-8972-ab4445fb4876",
+    "data": [
+      {
+        "text": "Tell me fees for Virtual Lab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88c9f6cc-5a47-4db7-9e86-14d5b924f766",
+    "data": [
+      {
+        "text": "How much do I pay for Virtual Lab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "addc5cfe-6b2e-4995-9476-f34395fa39a7",
+    "data": [
+      {
+        "text": "How do I pay for Virtual Labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e04c4da2-1038-4022-a279-53b508b69b88",
+    "data": [
+      {
+        "text": "How much money is required for Virtual Lab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68719bfd-152b-4b04-b188-d9458c6b41ac",
+    "data": [
+      {
+        "text": "How much does Virtual labs cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cda9375-5f5a-424c-b124-03044df37355",
+    "data": [
+      {
+        "text": "How can I use Virtual Labs ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "286772c2-7d35-4b5c-84de-6ca76b949e5a",
+    "data": [
+      {
+        "text": "Do I have to pay for using Virtual Labs ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bde74a9-f16f-4078-b60f-d8a82b5e6064",
+    "data": [
+      {
+        "text": "Is Virtual Labs free to use ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "061cec72-4f4b-4da7-bc0d-b7c39f4f6c63",
+    "data": [
+      {
+        "text": "Can anyone access Virtual Labs ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f2256d8-8674-4626-b75e-bf4e229edc4c",
+    "data": [
+      {
+        "text": "Do I need any permissions to use Virtual Labs ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f61af6c-1d96-4439-88de-32f9ea5bf3ac",
+    "data": [
+      {
+        "text": "Do I need any approval to use Virtual ",
+        "userDefined": false
+      },
+      {
+        "text": "Labs",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "eb15435b-9d71-467a-9f0e-d51af6c9ac19",
+  "name": "physical-sci-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "slack",
+          "title": "Physical Sciences Labs",
+          "buttons": [
+            {
+              "postback": "https://www.vlab.co.in/broad-area-physical-sciences",
+              "text": "Click to view Physical Sciences Labs"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": "Physical Sciences Labs",
+                  "type": "button",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "link"
+                  },
+                  "link": "https://www.vlab.co.in/broad-area-physical-sciences"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

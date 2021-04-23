@@ -1,0 +1,46 @@
+{
+  "id": "c320d672-317f-4cf2-841e-d2cf6afafe8f",
+  "name": "add-fulfillment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For detailed steps (https://cloud.google.com/dialogflow/es/docs/quick/fulfillment)\n\n\n1) Make sure billing is enabled for the GCP project corresponding to the dialogflow agent\n\n2) Enable webhook call for the intent for which you want to add fulfillment ( Intents -\u003e your-intent )\n\n3) Write fulfillment code as follows \n\n\n\u0027use strict\u0027;\n \nconst functions \u003d require(\u0027firebase-functions\u0027);\nconst {WebhookClient} \u003d require(\u0027dialogflow-fulfillment\u0027);\n\nprocess.env.DEBUG \u003d \u0027dialogflow:debug\u0027; // enables lib debugging statements\n\nexports.dialogflowFirebaseFulfillment \u003d functions.https.onRequest((request, response) \u003d\u003e {\n  const agent \u003d new WebhookClient({ request, response });\n  console.log(\u0027Dialogflow Request headers: \u0027 + JSON.stringify(request.headers));\n  console.log(\u0027Dialogflow Request body: \u0027 + JSON.stringify(request.body));\n\n  function testfulfillment(agent){\n    agent.add(\u0027Hello from fulfillment code\u0027);\n  }\n\n  let intentMap \u003d new Map();\n  intentMap.set(\u0027your-intent\u0027, testfulfillment);\n  agent.handleRequest(intentMap);\n});\n\n\n4) Check out \n\nhttps://github.com/dialogflow/dialogflow-fulfillment-nodejs\n\nfor more samples"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For detailed steps (https://cloud.google.com/dialogflow/es/docs/quick/fulfillment)\n\n\n1) Make sure billing is enabled for the GCP project corresponding to the dialogflow agent\n\n2) Enable webhook call for the intent for which you want to add fulfillment ( Intents -\u003e your-intent )\n\n3) Write fulfillment code as follows \n\n\n\u0027use strict\u0027;\n \nconst functions \u003d require(\u0027firebase-functions\u0027);\nconst {WebhookClient} \u003d require(\u0027dialogflow-fulfillment\u0027);\n\nprocess.env.DEBUG \u003d \u0027dialogflow:debug\u0027; // enables lib debugging statements\n\nexports.dialogflowFirebaseFulfillment \u003d functions.https.onRequest((request, response) \u003d\u003e {\n  const agent \u003d new WebhookClient({ request, response });\n  console.log(\u0027Dialogflow Request headers: \u0027 + JSON.stringify(request.headers));\n  console.log(\u0027Dialogflow Request body: \u0027 + JSON.stringify(request.body));\n\n  function testfulfillment(agent){\n    agent.add(\u0027Hello from fulfillment code\u0027);\n  }\n\n  let intentMap \u003d new Map();\n  intentMap.set(\u0027your-intent\u0027, testfulfillment);\n  agent.handleRequest(intentMap);\n});\n\n\n4) Check out \n\nhttps://github.com/dialogflow/dialogflow-fulfillment-nodejs\n\nfor more samples"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

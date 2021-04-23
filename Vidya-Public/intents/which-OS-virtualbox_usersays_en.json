@@ -1,0 +1,80 @@
+[
+  {
+    "id": "33a2e4fc-4296-48ed-b310-765a92ad2794",
+    "data": [
+      {
+        "text": "Can I use any OS for Virtual Box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9004ee44-8bbe-4895-bbf6-9cc02c1d85f8",
+    "data": [
+      {
+        "text": "Which operating systems will work with Virtual Box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28d058cb-d12f-4c0f-8c67-fc477c1efa01",
+    "data": [
+      {
+        "text": "Which OS is required for running Virtual Labs in Virtual box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43326aed-d4fa-45ea-85be-88bbcdb2664f",
+    "data": [
+      {
+        "text": "Operating System for running Virtual Box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6009505c-e6b8-421b-b667-cb39062cb001",
+    "data": [
+      {
+        "text": "OS for VirtualBox?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74b28228-81ed-4a68-9f43-26e43ceaa3e9",
+    "data": [
+      {
+        "text": "Which operating system is required to run Virtual Labs on VirtualBox?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "23d02719-fc9f-403c-b9b8-19e48c2090f5",
+    "data": [
+      {
+        "text": "Link to information regarding ",
+        "userDefined": false
+      },
+      {
+        "text": "outreach",
+        "meta": "@Virtual-Labs-Services",
+        "alias": "virtual-labs-services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "316b835a-e3a8-4189-be9b-eb0fc594a069",
+    "data": [
+      {
+        "text": "Outreach",
+        "meta": "@Virtual-Labs-Services",
+        "alias": "virtual-labs-services",
+        "userDefined": false
+      },
+      {
+        "text": " related information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1c6a643-ba7f-41c7-a3fc-2e4056bbaae5",
+    "data": [
+      {
+        "text": "Workshops",
+        "meta": "@Virtual-Labs-Services",
+        "alias": "virtual-labs-services",
+        "userDefined": false
+      },
+      {
+        "text": " organized?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67a594aa-d3c4-4dec-aafc-4f73605620b3",
+    "data": [
+      {
+        "text": "Nodal centers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5de96232-2a03-4566-a6a6-af27e7996993",
+    "data": [
+      {
+        "text": "Outreach",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " info?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

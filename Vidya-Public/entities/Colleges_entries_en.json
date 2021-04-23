@@ -1,0 +1,67 @@
+[
+  {
+    "value": "COEP",
+    "synonyms": [
+      "COEP"
+    ]
+  },
+  {
+    "value": "IITR",
+    "synonyms": [
+      "IITR",
+      "IIT Roorkie"
+    ]
+  },
+  {
+    "value": "NITK",
+    "synonyms": [
+      "NITK",
+      "NIT Karnataka"
+    ]
+  },
+  {
+    "value": "AMRT",
+    "synonyms": [
+      "AMRT"
+    ]
+  },
+  {
+    "value": "IITKGP",
+    "synonyms": [
+      "IIT Kharagpur"
+    ]
+  },
+  {
+    "value": "DLBG",
+    "synonyms": [
+      "DLBG"
+    ]
+  },
+  {
+    "value": "IIITH",
+    "synonyms": [
+      "IIITH"
+    ]
+  },
+  {
+    "value": "IITD",
+    "synonyms": [
+      "IITD",
+      "IIT Delhi"
+    ]
+  },
+  {
+    "value": "IITG",
+    "synonyms": [
+      "IITG",
+      "IIT Guwahati"
+    ]
+  },
+  {
+    "value": "IITK",
+    "synonyms": [
+      "IITK",
+      "IIT Kanpur"
+    ]
+  }
+]

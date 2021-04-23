@@ -1,0 +1,61 @@
+{
+  "id": "8d967e71-e823-4218-9bbd-ff3e2ab7bd7c",
+  "name": "types-workshop",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are two modes of Virtual Labs Workshop - Onsite and Online. \n\n1) Onsite workshops are conducted in the premises of the college requesting the workshop\n\n2) Online workshops as the name suggests are conducted as webinars."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "There are two modes of Virtual Labs Workshop - Onsite and Online.",
+                    "Onsite workshops are conducted in the premises of the college requesting the workshop",
+                    "Online workshops as the name suggests are conducted as webinars."
+                  ],
+                  "title": "Modes of Virtual Labs Workshop"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

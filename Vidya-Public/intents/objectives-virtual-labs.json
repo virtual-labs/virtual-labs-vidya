@@ -1,0 +1,59 @@
+{
+  "id": "eea388e8-63ef-4da6-af4b-e40aeab377bf",
+  "name": "objectives-virtual-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The broad objectives of the ‘Virtual Lab’ as stated on the website are:\n\n1. To provide remote access to Labs in various disciplines.\n\n2. To arouse curiosity in students and help them learn concepts through remote experimentation.\n\n3. To provide a complete ‘Learning Management System’ (LMS) around the Virtual labs – access to web-resources, videos, animated demonstrations\nself evaluation\n\n4. To provide access to resources available to only a limited number of users due to constraints of time and physical locations."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "Objectives of Virtual Labs",
+                  "text": [
+                    "1. To provide remote access to Labs in various disciplines.",
+                    "2. To arouse curiosity in students and help them learn concepts through remote experimentation.",
+                    "3. To provide a complete ‘Learning Management System’ (LMS) around the Virtual labs – access to web-resources, videos, animated demonstrations self evaluation",
+                    "4. To provide access to resources available to only a limited number of users due to constraints of time and physical locations."
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

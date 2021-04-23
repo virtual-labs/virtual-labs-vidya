@@ -1,0 +1,99 @@
+{
+  "id": "ffc95462-3cf4-4c29-9845-8c30df1b0f9f",
+  "name": "html-response-dialogflow",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "HTML in Dialogflow",
+                  "text": [
+                    "You can add Html in a dialogflow messenger response with accordion response type",
+                    "1) Write HTML using online HTML editor",
+                    "2) Convert HTML to string format",
+                    "3) Paste html in text in accordion response",
+                    "Following is an example of HTML response:"
+                  ],
+                  "type": "description"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Sample HTML Response",
+                  "subtitle": "Use accordion type rich response",
+                  "type": "accordion",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://example.com/images/logo.png"
+                    }
+                  },
+                  "text": "\u003ch4\u003eThis is HTML h4 tag\u003c/h4\u003e\u003cul\u003eHTML list:\u003cli\u003efirst item \u003cb\u003ebold\u003c/b\u003e\u003cli\u003esecond item \u003ci\u003eitalic\u003c/i\u003e\u003c/ul\u003e"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "text": "HTML Editor",
+                      "link": "https://htmledit.squarefree.com"
+                    },
+                    {
+                      "link": "https://smallseotools.com/minify-html/",
+                      "text": "HTML to string"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

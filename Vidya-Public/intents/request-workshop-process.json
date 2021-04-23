@@ -1,0 +1,153 @@
+{
+  "id": "c0cff40f-d126-4b9a-a80e-2179cb40e4c8",
+  "name": "request-workshop-process",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Steps\n\n1. Check the requirements of onsite workshop\n\n2. Fill the expression of interest form\n\n3. On confirmation from Virtual Labs team, fill \u0026 send checklist to ioc-iiith@vlabs.ac.in"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "slack",
+          "imageUrl": "https://vlead.vlabs.ac.in/static/4779a9215df7b0f518f328c585ef7698/309dd/2018-07-25-chaitanya-karimnagar-00030.webp",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "slack",
+          "title": "Requirements",
+          "buttons": [
+            {
+              "postback": "https://vlead.vlabs.ac.in/outreach#faq",
+              "text": "Requirements"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "slack",
+          "title": "Expression of interest form",
+          "buttons": [
+            {
+              "postback": "https://docs.google.com/a/vlabs.ac.in/forms/d/e/1FAIpQLScvUGaE6ln6JzeIVc2CqTXwac_R69WhzoM5TrW6y99hFB6nbw/viewform?embedded\u003dtrue",
+              "text": "Expression of interest form"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "slack",
+          "title": "Checklist",
+          "buttons": [
+            {
+              "postback": "https://docs.google.com/document/d/1CvHfQTX331oEJlaXvQHaqjY2y8q_Esj5FFDs3hOG36Q/edit",
+              "text": "Checklist"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "rawUrl": "https://vlead.vlabs.ac.in/static/4779a9215df7b0f518f328c585ef7698/309dd/2018-07-25-chaitanya-karimnagar-00030.webp",
+                  "type": "image",
+                  "accessibilityText": "Virtual Labs Onsite Workshops"
+                },
+                {
+                  "text": [
+                    "1. Check the requirements of onsite workshop",
+                    "2. Fill the expression of interest form",
+                    "3. On confirmation from Virtual Labs team, fill \u0026 send checklist to ioc-iiith@vlabs.ac.in"
+                  ],
+                  "title": "Steps",
+                  "type": "description"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "button",
+                  "text": "Requirements",
+                  "link": "https://vlead.vlabs.ac.in/outreach#faq",
+                  "icon": {
+                    "type": "link",
+                    "color": "#FF9800"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "button",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "link"
+                  },
+                  "link": "https://docs.google.com/a/vlabs.ac.in/forms/d/e/1FAIpQLScvUGaE6ln6JzeIVc2CqTXwac_R69WhzoM5TrW6y99hFB6nbw/viewform?embedded\u003dtrue",
+                  "text": "Expression of interest form"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "text": "Checklist",
+                  "link": "https://docs.google.com/document/d/1CvHfQTX331oEJlaXvQHaqjY2y8q_Esj5FFDs3hOG36Q/edit",
+                  "type": "button",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "link"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

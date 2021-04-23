@@ -1,0 +1,54 @@
+[
+  {
+    "id": "788c8429-ea81-4edc-a1ba-88620af4d2c4",
+    "data": [
+      {
+        "text": "where do I learn everything about dialogflow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a3fe2b9-2ccf-446c-bede-113f4e1a81f1",
+    "data": [
+      {
+        "text": "dialogflow docs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24993257-1429-4226-a2b5-23b7c0165119",
+    "data": [
+      {
+        "text": "docs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53b1852a-48f3-42aa-bd4c-3cc63b25be16",
+    "data": [
+      {
+        "text": "dialogflow documentation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

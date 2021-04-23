@@ -1,0 +1,59 @@
+{
+  "id": "ddd285df-d123-4a73-b711-f59acc41f80e",
+  "name": "virtual-over-physical",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Virtual Lab is a complete Learning Management System. All the relevant information including the theory, lab-manual, additional web-resources, video-lectures, animated demonstrations and self-evaluation are available at a common place. Virtual Labs can be used in a complementary fashion to augment the efficacy of theory-based lectures. Small projects can also be carried out using some of the Virtual Labs. Virtual Labs can be effectively used to give lab-demonstrations to large classes."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Virtual Lab Benefits",
+                  "text": [
+                    "Virtual Lab is a complete Learning Management System as compared to a physical lab which is restricted to experimenting a particular topic or subject",
+                    "All the relevant information including the theory, lab-manual, additional web-resources, video-lectures, animated demonstrations and self-evaluation are available at a common place.",
+                    "Virtual Labs can be used in a complementary fashion to augment the efficacy of theory-based lectures. Small projects can also be carried out using some of the Virtual Labs.",
+                    "Virtual Labs can be effectively used to give lab-demonstrations to large classes."
+                  ],
+                  "type": "description"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

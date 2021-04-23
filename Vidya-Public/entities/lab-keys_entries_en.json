@@ -1,0 +1,3100 @@
+[
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Electronics",
+    "synonyms": [
+      "Electronics"
+    ]
+  },
+  {
+    "value": "Basic",
+    "synonyms": [
+      "Basic"
+    ]
+  },
+  {
+    "value": "Electronics",
+    "synonyms": [
+      "Electronics"
+    ]
+  },
+  {
+    "value": "Strength",
+    "synonyms": [
+      "Strength"
+    ]
+  },
+  {
+    "value": "Materials",
+    "synonyms": [
+      "Materials"
+    ]
+  },
+  {
+    "value": "Electrical",
+    "synonyms": [
+      "Electrical"
+    ]
+  },
+  {
+    "value": "Machines",
+    "synonyms": [
+      "Machines"
+    ]
+  },
+  {
+    "value": "Simulation",
+    "synonyms": [
+      "Simulation"
+    ]
+  },
+  {
+    "value": "Analog",
+    "synonyms": [
+      "Analog"
+    ]
+  },
+  {
+    "value": "Signals,",
+    "synonyms": [
+      "Signals,"
+    ]
+  },
+  {
+    "value": "Network",
+    "synonyms": [
+      "Network"
+    ]
+  },
+  {
+    "value": "Measurement",
+    "synonyms": [
+      "Measurement"
+    ]
+  },
+  {
+    "value": "Sensor",
+    "synonyms": [
+      "Sensor"
+    ]
+  },
+  {
+    "value": "Data",
+    "synonyms": [
+      "Data"
+    ]
+  },
+  {
+    "value": "Structures",
+    "synonyms": [
+      "Structures"
+    ]
+  },
+  {
+    "value": "Environmental",
+    "synonyms": [
+      "Environmental"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "Fluid",
+    "synonyms": [
+      "Fluid"
+    ]
+  },
+  {
+    "value": "Mechanics",
+    "synonyms": [
+      "Mechanics"
+    ]
+  },
+  {
+    "value": "Software",
+    "synonyms": [
+      "Software"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "Virtual",
+    "synonyms": [
+      "Virtual"
+    ]
+  },
+  {
+    "value": "Laboratory",
+    "synonyms": [
+      "Laboratory"
+    ]
+  },
+  {
+    "value": "Virtual",
+    "synonyms": [
+      "Virtual"
+    ]
+  },
+  {
+    "value": "English",
+    "synonyms": [
+      "English"
+    ]
+  },
+  {
+    "value": "Communication",
+    "synonyms": [
+      "Communication"
+    ]
+  },
+  {
+    "value": "Electrical",
+    "synonyms": [
+      "Electrical"
+    ]
+  },
+  {
+    "value": "Machines",
+    "synonyms": [
+      "Machines"
+    ]
+  },
+  {
+    "value": "Transportation",
+    "synonyms": [
+      "Transportation"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "Electrical",
+    "synonyms": [
+      "Electrical"
+    ]
+  },
+  {
+    "value": "Machine",
+    "synonyms": [
+      "Machine"
+    ]
+  },
+  {
+    "value": "Data",
+    "synonyms": [
+      "Data"
+    ]
+  },
+  {
+    "value": "Structures",
+    "synonyms": [
+      "Structures"
+    ]
+  },
+  {
+    "value": "Fluid",
+    "synonyms": [
+      "Fluid"
+    ]
+  },
+  {
+    "value": "Machinery",
+    "synonyms": [
+      "Machinery"
+    ]
+  },
+  {
+    "value": "Soil",
+    "synonyms": [
+      "Soil"
+    ]
+  },
+  {
+    "value": "Mechanics",
+    "synonyms": [
+      "Mechanics"
+    ]
+  },
+  {
+    "value": "Cryptography",
+    "synonyms": [
+      "Cryptography"
+    ]
+  },
+  {
+    "value": "Image",
+    "synonyms": [
+      "Image"
+    ]
+  },
+  {
+    "value": "processing",
+    "synonyms": [
+      "processing"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Logic",
+    "synonyms": [
+      "Logic"
+    ]
+  },
+  {
+    "value": "Design",
+    "synonyms": [
+      "Design"
+    ]
+  },
+  {
+    "value": "Heat",
+    "synonyms": [
+      "Heat"
+    ]
+  },
+  {
+    "value": "Thermodynamics",
+    "synonyms": [
+      "Thermodynamics"
+    ]
+  },
+  {
+    "value": "Hybrid",
+    "synonyms": [
+      "Hybrid"
+    ]
+  },
+  {
+    "value": "Elecronics",
+    "synonyms": [
+      "Elecronics"
+    ]
+  },
+  {
+    "value": "Power",
+    "synonyms": [
+      "Power"
+    ]
+  },
+  {
+    "value": "Optics",
+    "synonyms": [
+      "Optics"
+    ]
+  },
+  {
+    "value": "Virtual",
+    "synonyms": [
+      "Virtual"
+    ]
+  },
+  {
+    "value": "Computer",
+    "synonyms": [
+      "Computer"
+    ]
+  },
+  {
+    "value": "programming",
+    "synonyms": [
+      "programming"
+    ]
+  },
+  {
+    "value": "Hydraulics",
+    "synonyms": [
+      "Hydraulics"
+    ]
+  },
+  {
+    "value": "fluid",
+    "synonyms": [
+      "fluid"
+    ]
+  },
+  {
+    "value": "mechanics",
+    "synonyms": [
+      "mechanics"
+    ]
+  },
+  {
+    "value": "Basics",
+    "synonyms": [
+      "Basics"
+    ]
+  },
+  {
+    "value": "HTML",
+    "synonyms": [
+      "HTML"
+    ]
+  },
+  {
+    "value": "Environmental",
+    "synonyms": [
+      "Environmental"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "Process",
+    "synonyms": [
+      "Process"
+    ]
+  },
+  {
+    "value": "Control",
+    "synonyms": [
+      "Control"
+    ]
+  },
+  {
+    "value": "Reaction",
+    "synonyms": [
+      "Reaction"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "Unit",
+    "synonyms": [
+      "Unit"
+    ]
+  },
+  {
+    "value": "Operations",
+    "synonyms": [
+      "Operations"
+    ]
+  },
+  {
+    "value": "Analog",
+    "synonyms": [
+      "Analog"
+    ]
+  },
+  {
+    "value": "Electronics",
+    "synonyms": [
+      "Electronics"
+    ]
+  },
+  {
+    "value": "Surveying",
+    "synonyms": [
+      "Surveying"
+    ]
+  },
+  {
+    "value": "Dynamics",
+    "synonyms": [
+      "Dynamics"
+    ]
+  },
+  {
+    "value": "Machine",
+    "synonyms": [
+      "Machine"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Electronic",
+    "synonyms": [
+      "Electronic"
+    ]
+  },
+  {
+    "value": "Circuits",
+    "synonyms": [
+      "Circuits"
+    ]
+  },
+  {
+    "value": "Mechanics",
+    "synonyms": [
+      "Mechanics"
+    ]
+  },
+  {
+    "value": "Machine",
+    "synonyms": [
+      "Machine"
+    ]
+  },
+  {
+    "value": "Modern",
+    "synonyms": [
+      "Modern"
+    ]
+  },
+  {
+    "value": "Physics",
+    "synonyms": [
+      "Physics"
+    ]
+  },
+  {
+    "value": "Mass",
+    "synonyms": [
+      "Mass"
+    ]
+  },
+  {
+    "value": "Transfer",
+    "synonyms": [
+      "Transfer"
+    ]
+  },
+  {
+    "value": "Laser",
+    "synonyms": [
+      "Laser"
+    ]
+  },
+  {
+    "value": "Optics",
+    "synonyms": [
+      "Optics"
+    ]
+  },
+  {
+    "value": "Machine",
+    "synonyms": [
+      "Machine"
+    ]
+  },
+  {
+    "value": "Dynamics",
+    "synonyms": [
+      "Dynamics"
+    ]
+  },
+  {
+    "value": "Vibration",
+    "synonyms": [
+      "Vibration"
+    ]
+  },
+  {
+    "value": "Advanced",
+    "synonyms": [
+      "Advanced"
+    ]
+  },
+  {
+    "value": "Mechanics",
+    "synonyms": [
+      "Mechanics"
+    ]
+  },
+  {
+    "value": "Advanced",
+    "synonyms": [
+      "Advanced"
+    ]
+  },
+  {
+    "value": "Network",
+    "synonyms": [
+      "Network"
+    ]
+  },
+  {
+    "value": "Technologies",
+    "synonyms": [
+      "Technologies"
+    ]
+  },
+  {
+    "value": "Computer",
+    "synonyms": [
+      "Computer"
+    ]
+  },
+  {
+    "value": "Organisation",
+    "synonyms": [
+      "Organisation"
+    ]
+  },
+  {
+    "value": "Architecture",
+    "synonyms": [
+      "Architecture"
+    ]
+  },
+  {
+    "value": "Metal",
+    "synonyms": [
+      "Metal"
+    ]
+  },
+  {
+    "value": "Forming",
+    "synonyms": [
+      "Forming"
+    ]
+  },
+  {
+    "value": "Virtual",
+    "synonyms": [
+      "Virtual"
+    ]
+  },
+  {
+    "value": "Simulation",
+    "synonyms": [
+      "Simulation"
+    ]
+  },
+  {
+    "value": "Metal",
+    "synonyms": [
+      "Metal"
+    ]
+  },
+  {
+    "value": "Forming",
+    "synonyms": [
+      "Forming"
+    ]
+  },
+  {
+    "value": "Solid",
+    "synonyms": [
+      "Solid"
+    ]
+  },
+  {
+    "value": "Mechanics",
+    "synonyms": [
+      "Mechanics"
+    ]
+  },
+  {
+    "value": "Computer",
+    "synonyms": [
+      "Computer"
+    ]
+  },
+  {
+    "value": "Graphics",
+    "synonyms": [
+      "Graphics"
+    ]
+  },
+  {
+    "value": "Electrical",
+    "synonyms": [
+      "Electrical"
+    ]
+  },
+  {
+    "value": "Machines",
+    "synonyms": [
+      "Machines"
+    ]
+  },
+  {
+    "value": "Simulation",
+    "synonyms": [
+      "Simulation"
+    ]
+  },
+  {
+    "value": "Virtual",
+    "synonyms": [
+      "Virtual"
+    ]
+  },
+  {
+    "value": "Vibrations",
+    "synonyms": [
+      "Vibrations"
+    ]
+  },
+  {
+    "value": "Acoustics",
+    "synonyms": [
+      "Acoustics"
+    ]
+  },
+  {
+    "value": "Data",
+    "synonyms": [
+      "Data"
+    ]
+  },
+  {
+    "value": "Structures",
+    "synonyms": [
+      "Structures"
+    ]
+  },
+  {
+    "value": "Electronics",
+    "synonyms": [
+      "Electronics"
+    ]
+  },
+  {
+    "value": "Devices",
+    "synonyms": [
+      "Devices"
+    ]
+  },
+  {
+    "value": "Circuits",
+    "synonyms": [
+      "Circuits"
+    ]
+  },
+  {
+    "value": "Physical",
+    "synonyms": [
+      "Physical"
+    ]
+  },
+  {
+    "value": "Chemistry",
+    "synonyms": [
+      "Chemistry"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Signal",
+    "synonyms": [
+      "Signal"
+    ]
+  },
+  {
+    "value": "Processing",
+    "synonyms": [
+      "Processing"
+    ]
+  },
+  {
+    "value": "Basics",
+    "synonyms": [
+      "Basics"
+    ]
+  },
+  {
+    "value": "Physics",
+    "synonyms": [
+      "Physics"
+    ]
+  },
+  {
+    "value": "Basic",
+    "synonyms": [
+      "Basic"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "Mechanics",
+    "synonyms": [
+      "Mechanics"
+    ]
+  },
+  {
+    "value": "Strength",
+    "synonyms": [
+      "Strength"
+    ]
+  },
+  {
+    "value": "Materials",
+    "synonyms": [
+      "Materials"
+    ]
+  },
+  {
+    "value": "Inorganic",
+    "synonyms": [
+      "Inorganic"
+    ]
+  },
+  {
+    "value": "Chemistry",
+    "synonyms": [
+      "Chemistry"
+    ]
+  },
+  {
+    "value": "Virtual",
+    "synonyms": [
+      "Virtual"
+    ]
+  },
+  {
+    "value": "Marine",
+    "synonyms": [
+      "Marine"
+    ]
+  },
+  {
+    "value": "Structures",
+    "synonyms": [
+      "Structures"
+    ]
+  },
+  {
+    "value": "High",
+    "synonyms": [
+      "High"
+    ]
+  },
+  {
+    "value": "Voltage",
+    "synonyms": [
+      "Voltage"
+    ]
+  },
+  {
+    "value": "Mechanical",
+    "synonyms": [
+      "Mechanical"
+    ]
+  },
+  {
+    "value": "Fluid",
+    "synonyms": [
+      "Fluid"
+    ]
+  },
+  {
+    "value": "Thermal",
+    "synonyms": [
+      "Thermal"
+    ]
+  },
+  {
+    "value": "Sciences",
+    "synonyms": [
+      "Sciences"
+    ]
+  },
+  {
+    "value": "Material",
+    "synonyms": [
+      "Material"
+    ]
+  },
+  {
+    "value": "Response",
+    "synonyms": [
+      "Response"
+    ]
+  },
+  {
+    "value": "Micro",
+    "synonyms": [
+      "Micro"
+    ]
+  },
+  {
+    "value": "Structural",
+    "synonyms": [
+      "Structural"
+    ]
+  },
+  {
+    "value": "Mechanical",
+    "synonyms": [
+      "Mechanical"
+    ]
+  },
+  {
+    "value": "Thermal",
+    "synonyms": [
+      "Thermal"
+    ]
+  },
+  {
+    "value": "Biological",
+    "synonyms": [
+      "Biological"
+    ]
+  },
+  {
+    "value": "Stimuli",
+    "synonyms": [
+      "Stimuli"
+    ]
+  },
+  {
+    "value": "Structural",
+    "synonyms": [
+      "Structural"
+    ]
+  },
+  {
+    "value": "Dynamics",
+    "synonyms": [
+      "Dynamics"
+    ]
+  },
+  {
+    "value": "Artificial",
+    "synonyms": [
+      "Artificial"
+    ]
+  },
+  {
+    "value": "Neural",
+    "synonyms": [
+      "Neural"
+    ]
+  },
+  {
+    "value": "Networks",
+    "synonyms": [
+      "Networks"
+    ]
+  },
+  {
+    "value": "Fading",
+    "synonyms": [
+      "Fading"
+    ]
+  },
+  {
+    "value": "Channels",
+    "synonyms": [
+      "Channels"
+    ]
+  },
+  {
+    "value": "Mobile",
+    "synonyms": [
+      "Mobile"
+    ]
+  },
+  {
+    "value": "Communications",
+    "synonyms": [
+      "Communications"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Applications",
+    "synonyms": [
+      "Applications"
+    ]
+  },
+  {
+    "value": "Mechanism",
+    "synonyms": [
+      "Mechanism"
+    ]
+  },
+  {
+    "value": "Robotics",
+    "synonyms": [
+      "Robotics"
+    ]
+  },
+  {
+    "value": "Mechanics",
+    "synonyms": [
+      "Mechanics"
+    ]
+  },
+  {
+    "value": "Pilot",
+    "synonyms": [
+      "Pilot"
+    ]
+  },
+  {
+    "value": "Natural",
+    "synonyms": [
+      "Natural"
+    ]
+  },
+  {
+    "value": "Language",
+    "synonyms": [
+      "Language"
+    ]
+  },
+  {
+    "value": "Processing",
+    "synonyms": [
+      "Processing"
+    ]
+  },
+  {
+    "value": "Basic",
+    "synonyms": [
+      "Basic"
+    ]
+  },
+  {
+    "value": "Structural",
+    "synonyms": [
+      "Structural"
+    ]
+  },
+  {
+    "value": "Analysis",
+    "synonyms": [
+      "Analysis"
+    ]
+  },
+  {
+    "value": "Micro",
+    "synonyms": [
+      "Micro"
+    ]
+  },
+  {
+    "value": "Machining",
+    "synonyms": [
+      "Machining"
+    ]
+  },
+  {
+    "value": "Laboratory",
+    "synonyms": [
+      "Laboratory"
+    ]
+  },
+  {
+    "value": "Signals",
+    "synonyms": [
+      "Signals"
+    ]
+  },
+  {
+    "value": "Systems",
+    "synonyms": [
+      "Systems"
+    ]
+  },
+  {
+    "value": "Laboratory",
+    "synonyms": [
+      "Laboratory"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "VLSI",
+    "synonyms": [
+      "VLSI"
+    ]
+  },
+  {
+    "value": "Design",
+    "synonyms": [
+      "Design"
+    ]
+  },
+  {
+    "value": "Electricity",
+    "synonyms": [
+      "Electricity"
+    ]
+  },
+  {
+    "value": "Magnetism",
+    "synonyms": [
+      "Magnetism"
+    ]
+  },
+  {
+    "value": "Computer",
+    "synonyms": [
+      "Computer"
+    ]
+  },
+  {
+    "value": "Organisation",
+    "synonyms": [
+      "Organisation"
+    ]
+  },
+  {
+    "value": "Circular",
+    "synonyms": [
+      "Circular"
+    ]
+  },
+  {
+    "value": "Dichronism",
+    "synonyms": [
+      "Dichronism"
+    ]
+  },
+  {
+    "value": "Spectroscopy",
+    "synonyms": [
+      "Spectroscopy"
+    ]
+  },
+  {
+    "value": "Colloid",
+    "synonyms": [
+      "Colloid"
+    ]
+  },
+  {
+    "value": "Surface",
+    "synonyms": [
+      "Surface"
+    ]
+  },
+  {
+    "value": "Chemistry",
+    "synonyms": [
+      "Chemistry"
+    ]
+  },
+  {
+    "value": "Physical",
+    "synonyms": [
+      "Physical"
+    ]
+  },
+  {
+    "value": "chemistry",
+    "synonyms": [
+      "chemistry"
+    ]
+  },
+  {
+    "value": "Mining",
+    "synonyms": [
+      "Mining"
+    ]
+  },
+  {
+    "value": "Geology",
+    "synonyms": [
+      "Geology"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Logic",
+    "synonyms": [
+      "Logic"
+    ]
+  },
+  {
+    "value": "Design",
+    "synonyms": [
+      "Design"
+    ]
+  },
+  {
+    "value": "IITB",
+    "synonyms": [
+      "IITB"
+    ]
+  },
+  {
+    "value": "Biochemistry",
+    "synonyms": [
+      "Biochemistry"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Logic",
+    "synonyms": [
+      "Logic"
+    ]
+  },
+  {
+    "value": "Design",
+    "synonyms": [
+      "Design"
+    ]
+  },
+  {
+    "value": "using",
+    "synonyms": [
+      "using"
+    ]
+  },
+  {
+    "value": "Gates",
+    "synonyms": [
+      "Gates"
+    ]
+  },
+  {
+    "value": "Programmable",
+    "synonyms": [
+      "Programmable"
+    ]
+  },
+  {
+    "value": "Logic",
+    "synonyms": [
+      "Logic"
+    ]
+  },
+  {
+    "value": "Controller",
+    "synonyms": [
+      "Controller"
+    ]
+  },
+  {
+    "value": "FAB",
+    "synonyms": [
+      "FAB"
+    ]
+  },
+  {
+    "value": "Laboratory",
+    "synonyms": [
+      "Laboratory"
+    ]
+  },
+  {
+    "value": "VLSI",
+    "synonyms": [
+      "VLSI"
+    ]
+  },
+  {
+    "value": "Elecrical",
+    "synonyms": [
+      "Elecrical"
+    ]
+  },
+  {
+    "value": "Machines",
+    "synonyms": [
+      "Machines"
+    ]
+  },
+  {
+    "value": "Laboratory",
+    "synonyms": [
+      "Laboratory"
+    ]
+  },
+  {
+    "value": "Gaming",
+    "synonyms": [
+      "Gaming"
+    ]
+  },
+  {
+    "value": "Simulation",
+    "synonyms": [
+      "Simulation"
+    ]
+  },
+  {
+    "value": "Molecular",
+    "synonyms": [
+      "Molecular"
+    ]
+  },
+  {
+    "value": "Interactions",
+    "synonyms": [
+      "Interactions"
+    ]
+  },
+  {
+    "value": "Substation",
+    "synonyms": [
+      "Substation"
+    ]
+  },
+  {
+    "value": "Automation",
+    "synonyms": [
+      "Automation"
+    ]
+  },
+  {
+    "value": "Pattern",
+    "synonyms": [
+      "Pattern"
+    ]
+  },
+  {
+    "value": "recognition",
+    "synonyms": [
+      "recognition"
+    ]
+  },
+  {
+    "value": "Industrial",
+    "synonyms": [
+      "Industrial"
+    ]
+  },
+  {
+    "value": "Electric",
+    "synonyms": [
+      "Electric"
+    ]
+  },
+  {
+    "value": "Drives",
+    "synonyms": [
+      "Drives"
+    ]
+  },
+  {
+    "value": "Application",
+    "synonyms": [
+      "Application"
+    ]
+  },
+  {
+    "value": "PLC",
+    "synonyms": [
+      "PLC"
+    ]
+  },
+  {
+    "value": "Problem",
+    "synonyms": [
+      "Problem"
+    ]
+  },
+  {
+    "value": "Solving",
+    "synonyms": [
+      "Solving"
+    ]
+  },
+  {
+    "value": "Harmonic",
+    "synonyms": [
+      "Harmonic"
+    ]
+  },
+  {
+    "value": "Motion",
+    "synonyms": [
+      "Motion"
+    ]
+  },
+  {
+    "value": "Waves",
+    "synonyms": [
+      "Waves"
+    ]
+  },
+  {
+    "value": "Soft",
+    "synonyms": [
+      "Soft"
+    ]
+  },
+  {
+    "value": "Computing",
+    "synonyms": [
+      "Computing"
+    ]
+  },
+  {
+    "value": "Tools",
+    "synonyms": [
+      "Tools"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "Remote",
+    "synonyms": [
+      "Remote"
+    ]
+  },
+  {
+    "value": "Triggered",
+    "synonyms": [
+      "Triggered"
+    ]
+  },
+  {
+    "value": "Automotive",
+    "synonyms": [
+      "Automotive"
+    ]
+  },
+  {
+    "value": "Systems",
+    "synonyms": [
+      "Systems"
+    ]
+  },
+  {
+    "value": "Microbiology",
+    "synonyms": [
+      "Microbiology"
+    ]
+  },
+  {
+    "value": "Chemical",
+    "synonyms": [
+      "Chemical"
+    ]
+  },
+  {
+    "value": "Process",
+    "synonyms": [
+      "Process"
+    ]
+  },
+  {
+    "value": "Dynamics",
+    "synonyms": [
+      "Dynamics"
+    ]
+  },
+  {
+    "value": "Mechanical",
+    "synonyms": [
+      "Mechanical"
+    ]
+  },
+  {
+    "value": "Systems",
+    "synonyms": [
+      "Systems"
+    ]
+  },
+  {
+    "value": "Signal",
+    "synonyms": [
+      "Signal"
+    ]
+  },
+  {
+    "value": "Processing",
+    "synonyms": [
+      "Processing"
+    ]
+  },
+  {
+    "value": "Speech",
+    "synonyms": [
+      "Speech"
+    ]
+  },
+  {
+    "value": "Signal",
+    "synonyms": [
+      "Signal"
+    ]
+  },
+  {
+    "value": "Processing",
+    "synonyms": [
+      "Processing"
+    ]
+  },
+  {
+    "value": "Technology",
+    "synonyms": [
+      "Technology"
+    ]
+  },
+  {
+    "value": "CAD",
+    "synonyms": [
+      "CAD"
+    ]
+  },
+  {
+    "value": "Laboratory",
+    "synonyms": [
+      "Laboratory"
+    ]
+  },
+  {
+    "value": "Computational",
+    "synonyms": [
+      "Computational"
+    ]
+  },
+  {
+    "value": "Linguistics",
+    "synonyms": [
+      "Linguistics"
+    ]
+  },
+  {
+    "value": "Real",
+    "synonyms": [
+      "Real"
+    ]
+  },
+  {
+    "value": "Time",
+    "synonyms": [
+      "Time"
+    ]
+  },
+  {
+    "value": "Embedded",
+    "synonyms": [
+      "Embedded"
+    ]
+  },
+  {
+    "value": "Systems",
+    "synonyms": [
+      "Systems"
+    ]
+  },
+  {
+    "value": "Mechanical",
+    "synonyms": [
+      "Mechanical"
+    ]
+  },
+  {
+    "value": "Vibrations",
+    "synonyms": [
+      "Vibrations"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Electronics",
+    "synonyms": [
+      "Electronics"
+    ]
+  },
+  {
+    "value": "IITG",
+    "synonyms": [
+      "IITG"
+    ]
+  },
+  {
+    "value": "Ergonomics",
+    "synonyms": [
+      "Ergonomics"
+    ]
+  },
+  {
+    "value": "Astrophysics",
+    "synonyms": [
+      "Astrophysics"
+    ]
+  },
+  {
+    "value": "Bio-Medical",
+    "synonyms": [
+      "Bio-Medical"
+    ]
+  },
+  {
+    "value": "Signal",
+    "synonyms": [
+      "Signal"
+    ]
+  },
+  {
+    "value": "Processing",
+    "synonyms": [
+      "Processing"
+    ]
+  },
+  {
+    "value": "Proteomics",
+    "synonyms": [
+      "Proteomics"
+    ]
+  },
+  {
+    "value": "Multiphase",
+    "synonyms": [
+      "Multiphase"
+    ]
+  },
+  {
+    "value": "Flow",
+    "synonyms": [
+      "Flow"
+    ]
+  },
+  {
+    "value": "Analog",
+    "synonyms": [
+      "Analog"
+    ]
+  },
+  {
+    "value": "Electronics",
+    "synonyms": [
+      "Electronics"
+    ]
+  },
+  {
+    "value": "Solid",
+    "synonyms": [
+      "Solid"
+    ]
+  },
+  {
+    "value": "State",
+    "synonyms": [
+      "State"
+    ]
+  },
+  {
+    "value": "Devices",
+    "synonyms": [
+      "Devices"
+    ]
+  },
+  {
+    "value": "Laboratory",
+    "synonyms": [
+      "Laboratory"
+    ]
+  },
+  {
+    "value": "Advanced",
+    "synonyms": [
+      "Advanced"
+    ]
+  },
+  {
+    "value": "Analytical",
+    "synonyms": [
+      "Analytical"
+    ]
+  },
+  {
+    "value": "Chemistry",
+    "synonyms": [
+      "Chemistry"
+    ]
+  },
+  {
+    "value": "Bio-Medical",
+    "synonyms": [
+      "Bio-Medical"
+    ]
+  },
+  {
+    "value": "Instrumentation",
+    "synonyms": [
+      "Instrumentation"
+    ]
+  },
+  {
+    "value": "Python",
+    "synonyms": [
+      "Python"
+    ]
+  },
+  {
+    "value": "Programming",
+    "synonyms": [
+      "Programming"
+    ]
+  },
+  {
+    "value": "Satellite",
+    "synonyms": [
+      "Satellite"
+    ]
+  },
+  {
+    "value": "Modelling",
+    "synonyms": [
+      "Modelling"
+    ]
+  },
+  {
+    "value": "Simulation",
+    "synonyms": [
+      "Simulation"
+    ]
+  },
+  {
+    "value": "Computer",
+    "synonyms": [
+      "Computer"
+    ]
+  },
+  {
+    "value": "Integrated",
+    "synonyms": [
+      "Integrated"
+    ]
+  },
+  {
+    "value": "Manufacturing",
+    "synonyms": [
+      "Manufacturing"
+    ]
+  },
+  {
+    "value": "Pulse",
+    "synonyms": [
+      "Pulse"
+    ]
+  },
+  {
+    "value": "Switching",
+    "synonyms": [
+      "Switching"
+    ]
+  },
+  {
+    "value": "Analog",
+    "synonyms": [
+      "Analog"
+    ]
+  },
+  {
+    "value": "Circuits",
+    "synonyms": [
+      "Circuits"
+    ]
+  },
+  {
+    "value": "Laboratory",
+    "synonyms": [
+      "Laboratory"
+    ]
+  },
+  {
+    "value": "Mine",
+    "synonyms": [
+      "Mine"
+    ]
+  },
+  {
+    "value": "Ventilation",
+    "synonyms": [
+      "Ventilation"
+    ]
+  },
+  {
+    "value": "Combustion",
+    "synonyms": [
+      "Combustion"
+    ]
+  },
+  {
+    "value": "Automization",
+    "synonyms": [
+      "Automization"
+    ]
+  },
+  {
+    "value": "Fluid",
+    "synonyms": [
+      "Fluid"
+    ]
+  },
+  {
+    "value": "Machinery",
+    "synonyms": [
+      "Machinery"
+    ]
+  },
+  {
+    "value": "Basics",
+    "synonyms": [
+      "Basics"
+    ]
+  },
+  {
+    "value": "Pneumatic",
+    "synonyms": [
+      "Pneumatic"
+    ]
+  },
+  {
+    "value": "Components",
+    "synonyms": [
+      "Components"
+    ]
+  },
+  {
+    "value": "Rotating",
+    "synonyms": [
+      "Rotating"
+    ]
+  },
+  {
+    "value": "Machinery",
+    "synonyms": [
+      "Machinery"
+    ]
+  },
+  {
+    "value": "Fault",
+    "synonyms": [
+      "Fault"
+    ]
+  },
+  {
+    "value": "Simulation",
+    "synonyms": [
+      "Simulation"
+    ]
+  },
+  {
+    "value": "Laboratory",
+    "synonyms": [
+      "Laboratory"
+    ]
+  },
+  {
+    "value": "Kinematics",
+    "synonyms": [
+      "Kinematics"
+    ]
+  },
+  {
+    "value": "Dynamics",
+    "synonyms": [
+      "Dynamics"
+    ]
+  },
+  {
+    "value": "Mechanism",
+    "synonyms": [
+      "Mechanism"
+    ]
+  },
+  {
+    "value": "Population",
+    "synonyms": [
+      "Population"
+    ]
+  },
+  {
+    "value": "Ecology",
+    "synonyms": [
+      "Ecology"
+    ]
+  },
+  {
+    "value": "Anthropology",
+    "synonyms": [
+      "Anthropology"
+    ]
+  },
+  {
+    "value": "Electron",
+    "synonyms": [
+      "Electron"
+    ]
+  },
+  {
+    "value": "Microscopy",
+    "synonyms": [
+      "Microscopy"
+    ]
+  },
+  {
+    "value": "Beginners",
+    "synonyms": [
+      "Beginners"
+    ]
+  },
+  {
+    "value": "Queueing",
+    "synonyms": [
+      "Queueing"
+    ]
+  },
+  {
+    "value": "networks",
+    "synonyms": [
+      "networks"
+    ]
+  },
+  {
+    "value": "modelling",
+    "synonyms": [
+      "modelling"
+    ]
+  },
+  {
+    "value": "Ultra",
+    "synonyms": [
+      "Ultra"
+    ]
+  },
+  {
+    "value": "fast",
+    "synonyms": [
+      "fast"
+    ]
+  },
+  {
+    "value": "Laser",
+    "synonyms": [
+      "Laser"
+    ]
+  },
+  {
+    "value": "Spectroscopy",
+    "synonyms": [
+      "Spectroscopy"
+    ]
+  },
+  {
+    "value": "Electrical",
+    "synonyms": [
+      "Electrical"
+    ]
+  },
+  {
+    "value": "Machines",
+    "synonyms": [
+      "Machines"
+    ]
+  },
+  {
+    "value": "(Simulation)",
+    "synonyms": [
+      "(Simulation)"
+    ]
+  },
+  {
+    "value": "Robotics",
+    "synonyms": [
+      "Robotics"
+    ]
+  },
+  {
+    "value": "Control",
+    "synonyms": [
+      "Control"
+    ]
+  },
+  {
+    "value": "Systems",
+    "synonyms": [
+      "Systems"
+    ]
+  },
+  {
+    "value": "Simulation",
+    "synonyms": [
+      "Simulation"
+    ]
+  },
+  {
+    "value": "3D",
+    "synonyms": [
+      "3D"
+    ]
+  },
+  {
+    "value": "Printing",
+    "synonyms": [
+      "Printing"
+    ]
+  },
+  {
+    "value": "Simulation",
+    "synonyms": [
+      "Simulation"
+    ]
+  },
+  {
+    "value": "Industrial",
+    "synonyms": [
+      "Industrial"
+    ]
+  },
+  {
+    "value": "Automation",
+    "synonyms": [
+      "Automation"
+    ]
+  },
+  {
+    "value": "Process",
+    "synonyms": [
+      "Process"
+    ]
+  },
+  {
+    "value": "Loop",
+    "synonyms": [
+      "Loop"
+    ]
+  },
+  {
+    "value": "Component",
+    "synonyms": [
+      "Component"
+    ]
+  },
+  {
+    "value": "Transmitter",
+    "synonyms": [
+      "Transmitter"
+    ]
+  },
+  {
+    "value": "Tank",
+    "synonyms": [
+      "Tank"
+    ]
+  },
+  {
+    "value": "Applications",
+    "synonyms": [
+      "Applications"
+    ]
+  },
+  {
+    "value": "Model",
+    "synonyms": [
+      "Model"
+    ]
+  },
+  {
+    "value": "Based",
+    "synonyms": [
+      "Based"
+    ]
+  },
+  {
+    "value": "Fault",
+    "synonyms": [
+      "Fault"
+    ]
+  },
+  {
+    "value": "Detection",
+    "synonyms": [
+      "Detection"
+    ]
+  },
+  {
+    "value": "Process",
+    "synonyms": [
+      "Process"
+    ]
+  },
+  {
+    "value": "Loop",
+    "synonyms": [
+      "Loop"
+    ]
+  },
+  {
+    "value": "Components",
+    "synonyms": [
+      "Components"
+    ]
+  },
+  {
+    "value": "Current",
+    "synonyms": [
+      "Current"
+    ]
+  },
+  {
+    "value": "Pneumatic",
+    "synonyms": [
+      "Pneumatic"
+    ]
+  },
+  {
+    "value": "Converters",
+    "synonyms": [
+      "Converters"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "Electro-magnetics",
+    "synonyms": [
+      "Electro-magnetics"
+    ]
+  },
+  {
+    "value": "Structural",
+    "synonyms": [
+      "Structural"
+    ]
+  },
+  {
+    "value": "Characterization",
+    "synonyms": [
+      "Characterization"
+    ]
+  },
+  {
+    "value": "Materials",
+    "synonyms": [
+      "Materials"
+    ]
+  },
+  {
+    "value": "Microelectronics",
+    "synonyms": [
+      "Microelectronics"
+    ]
+  },
+  {
+    "value": "VLSI",
+    "synonyms": [
+      "VLSI"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "Magnetic",
+    "synonyms": [
+      "Magnetic"
+    ]
+  },
+  {
+    "value": "Levitation",
+    "synonyms": [
+      "Levitation"
+    ]
+  },
+  {
+    "value": "Process",
+    "synonyms": [
+      "Process"
+    ]
+  },
+  {
+    "value": "Loop",
+    "synonyms": [
+      "Loop"
+    ]
+  },
+  {
+    "value": "Component",
+    "synonyms": [
+      "Component"
+    ]
+  },
+  {
+    "value": "Control",
+    "synonyms": [
+      "Control"
+    ]
+  },
+  {
+    "value": "Valve",
+    "synonyms": [
+      "Valve"
+    ]
+  },
+  {
+    "value": "Various",
+    "synonyms": [
+      "Various"
+    ]
+  },
+  {
+    "value": "Applications",
+    "synonyms": [
+      "Applications"
+    ]
+  },
+  {
+    "value": "Virtual",
+    "synonyms": [
+      "Virtual"
+    ]
+  },
+  {
+    "value": "Microwave",
+    "synonyms": [
+      "Microwave"
+    ]
+  },
+  {
+    "value": "Data",
+    "synonyms": [
+      "Data"
+    ]
+  },
+  {
+    "value": "Structures",
+    "synonyms": [
+      "Structures"
+    ]
+  },
+  {
+    "value": "Fluid",
+    "synonyms": [
+      "Fluid"
+    ]
+  },
+  {
+    "value": "Machinery",
+    "synonyms": [
+      "Machinery"
+    ]
+  },
+  {
+    "value": "Plant",
+    "synonyms": [
+      "Plant"
+    ]
+  },
+  {
+    "value": "Metabolic",
+    "synonyms": [
+      "Metabolic"
+    ]
+  },
+  {
+    "value": "Pathways",
+    "synonyms": [
+      "Pathways"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Anthropology",
+    "synonyms": [
+      "Anthropology"
+    ]
+  },
+  {
+    "value": "HTML",
+    "synonyms": [
+      "HTML"
+    ]
+  },
+  {
+    "value": "Single",
+    "synonyms": [
+      "Single"
+    ]
+  },
+  {
+    "value": "Board",
+    "synonyms": [
+      "Board"
+    ]
+  },
+  {
+    "value": "Heater",
+    "synonyms": [
+      "Heater"
+    ]
+  },
+  {
+    "value": "System",
+    "synonyms": [
+      "System"
+    ]
+  },
+  {
+    "value": "Process",
+    "synonyms": [
+      "Process"
+    ]
+  },
+  {
+    "value": "Loop",
+    "synonyms": [
+      "Loop"
+    ]
+  },
+  {
+    "value": "Components",
+    "synonyms": [
+      "Components"
+    ]
+  },
+  {
+    "value": "High",
+    "synonyms": [
+      "High"
+    ]
+  },
+  {
+    "value": "Low",
+    "synonyms": [
+      "Low"
+    ]
+  },
+  {
+    "value": "Selector",
+    "synonyms": [
+      "Selector"
+    ]
+  },
+  {
+    "value": "Alarm",
+    "synonyms": [
+      "Alarm"
+    ]
+  },
+  {
+    "value": "Annunciator",
+    "synonyms": [
+      "Annunciator"
+    ]
+  },
+  {
+    "value": "Electronic",
+    "synonyms": [
+      "Electronic"
+    ]
+  },
+  {
+    "value": "Instrumentation",
+    "synonyms": [
+      "Instrumentation"
+    ]
+  },
+  {
+    "value": "Molecular",
+    "synonyms": [
+      "Molecular"
+    ]
+  },
+  {
+    "value": "Absorption",
+    "synonyms": [
+      "Absorption"
+    ]
+  },
+  {
+    "value": "Spectroscopy",
+    "synonyms": [
+      "Spectroscopy"
+    ]
+  },
+  {
+    "value": "Core",
+    "synonyms": [
+      "Core"
+    ]
+  },
+  {
+    "value": "Java",
+    "synonyms": [
+      "Java"
+    ]
+  },
+  {
+    "value": "Programming",
+    "synonyms": [
+      "Programming"
+    ]
+  },
+  {
+    "value": "Virtual",
+    "synonyms": [
+      "Virtual"
+    ]
+  },
+  {
+    "value": "Chemistry",
+    "synonyms": [
+      "Chemistry"
+    ]
+  },
+  {
+    "value": "Population",
+    "synonyms": [
+      "Population"
+    ]
+  },
+  {
+    "value": "Ecology",
+    "synonyms": [
+      "Ecology"
+    ]
+  },
+  {
+    "value": "Geotechnical",
+    "synonyms": [
+      "Geotechnical"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "Organic",
+    "synonyms": [
+      "Organic"
+    ]
+  },
+  {
+    "value": "Chemistry",
+    "synonyms": [
+      "Chemistry"
+    ]
+  },
+  {
+    "value": "Molecular",
+    "synonyms": [
+      "Molecular"
+    ]
+  },
+  {
+    "value": "Florescence",
+    "synonyms": [
+      "Florescence"
+    ]
+  },
+  {
+    "value": "Spectroscopy",
+    "synonyms": [
+      "Spectroscopy"
+    ]
+  },
+  {
+    "value": "Data",
+    "synonyms": [
+      "Data"
+    ]
+  },
+  {
+    "value": "Structures",
+    "synonyms": [
+      "Structures"
+    ]
+  },
+  {
+    "value": "Data",
+    "synonyms": [
+      "Data"
+    ]
+  },
+  {
+    "value": "Structures",
+    "synonyms": [
+      "Structures"
+    ]
+  },
+  {
+    "value": "Bio-medical",
+    "synonyms": [
+      "Bio-medical"
+    ]
+  },
+  {
+    "value": "signal",
+    "synonyms": [
+      "signal"
+    ]
+  },
+  {
+    "value": "image",
+    "synonyms": [
+      "image"
+    ]
+  },
+  {
+    "value": "processing",
+    "synonyms": [
+      "processing"
+    ]
+  },
+  {
+    "value": "Creative",
+    "synonyms": [
+      "Creative"
+    ]
+  },
+  {
+    "value": "Design,",
+    "synonyms": [
+      "Design,"
+    ]
+  },
+  {
+    "value": "Prototyping",
+    "synonyms": [
+      "Prototyping"
+    ]
+  },
+  {
+    "value": "Experiential",
+    "synonyms": [
+      "Experiential"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Electronics",
+    "synonyms": [
+      "Electronics"
+    ]
+  },
+  {
+    "value": "IITR",
+    "synonyms": [
+      "IITR"
+    ]
+  },
+  {
+    "value": "DLD",
+    "synonyms": [
+      "DLD"
+    ]
+  },
+  {
+    "value": "Basic",
+    "synonyms": [
+      "Basic"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "Mechanics",
+    "synonyms": [
+      "Mechanics"
+    ]
+  },
+  {
+    "value": "SOM",
+    "synonyms": [
+      "SOM"
+    ]
+  },
+  {
+    "value": "Virtual",
+    "synonyms": [
+      "Virtual"
+    ]
+  },
+  {
+    "value": "Smart",
+    "synonyms": [
+      "Smart"
+    ]
+  },
+  {
+    "value": "Structures",
+    "synonyms": [
+      "Structures"
+    ]
+  },
+  {
+    "value": "Dynamics",
+    "synonyms": [
+      "Dynamics"
+    ]
+  },
+  {
+    "value": "Laboratory",
+    "synonyms": [
+      "Laboratory"
+    ]
+  },
+  {
+    "value": "Modern",
+    "synonyms": [
+      "Modern"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Design",
+    "synonyms": [
+      "Design"
+    ]
+  },
+  {
+    "value": "Traffic",
+    "synonyms": [
+      "Traffic"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "Concrete",
+    "synonyms": [
+      "Concrete"
+    ]
+  },
+  {
+    "value": "Structures",
+    "synonyms": [
+      "Structures"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Electronics",
+    "synonyms": [
+      "Electronics"
+    ]
+  },
+  {
+    "value": "IITR",
+    "synonyms": [
+      "IITR"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Electronics",
+    "synonyms": [
+      "Electronics"
+    ]
+  },
+  {
+    "value": "Basics",
+    "synonyms": [
+      "Basics"
+    ]
+  },
+  {
+    "value": "HTML",
+    "synonyms": [
+      "HTML"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Electronics",
+    "synonyms": [
+      "Electronics"
+    ]
+  },
+  {
+    "value": "Process",
+    "synonyms": [
+      "Process"
+    ]
+  },
+  {
+    "value": "Loop",
+    "synonyms": [
+      "Loop"
+    ]
+  },
+  {
+    "value": "Component",
+    "synonyms": [
+      "Component"
+    ]
+  },
+  {
+    "value": "Control",
+    "synonyms": [
+      "Control"
+    ]
+  },
+  {
+    "value": "Valve",
+    "synonyms": [
+      "Valve"
+    ]
+  },
+  {
+    "value": "various",
+    "synonyms": [
+      "various"
+    ]
+  },
+  {
+    "value": "Applications",
+    "synonyms": [
+      "Applications"
+    ]
+  },
+  {
+    "value": "Process",
+    "synonyms": [
+      "Process"
+    ]
+  },
+  {
+    "value": "Loop",
+    "synonyms": [
+      "Loop"
+    ]
+  },
+  {
+    "value": "Component",
+    "synonyms": [
+      "Component"
+    ]
+  },
+  {
+    "value": "Control",
+    "synonyms": [
+      "Control"
+    ]
+  },
+  {
+    "value": "Valve",
+    "synonyms": [
+      "Valve"
+    ]
+  },
+  {
+    "value": "various",
+    "synonyms": [
+      "various"
+    ]
+  },
+  {
+    "value": "Applications",
+    "synonyms": [
+      "Applications"
+    ]
+  },
+  {
+    "value": "Bioinformatics",
+    "synonyms": [
+      "Bioinformatics"
+    ]
+  },
+  {
+    "value": "Data",
+    "synonyms": [
+      "Data"
+    ]
+  },
+  {
+    "value": "Science",
+    "synonyms": [
+      "Science"
+    ]
+  },
+  {
+    "value": "Biotechnology",
+    "synonyms": [
+      "Biotechnology"
+    ]
+  },
+  {
+    "value": "Physical",
+    "synonyms": [
+      "Physical"
+    ]
+  },
+  {
+    "value": "Sciences",
+    "synonyms": [
+      "Sciences"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Electronics",
+    "synonyms": [
+      "Electronics"
+    ]
+  },
+  {
+    "value": "Marine",
+    "synonyms": [
+      "Marine"
+    ]
+  },
+  {
+    "value": "Structures",
+    "synonyms": [
+      "Structures"
+    ]
+  },
+  {
+    "value": "Satellite",
+    "synonyms": [
+      "Satellite"
+    ]
+  },
+  {
+    "value": "Image",
+    "synonyms": [
+      "Image"
+    ]
+  },
+  {
+    "value": "Processing",
+    "synonyms": [
+      "Processing"
+    ]
+  },
+  {
+    "value": "Aerospace",
+    "synonyms": [
+      "Aerospace"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "Analog",
+    "synonyms": [
+      "Analog"
+    ]
+  },
+  {
+    "value": "Integrated",
+    "synonyms": [
+      "Integrated"
+    ]
+  },
+  {
+    "value": "Circuits",
+    "synonyms": [
+      "Circuits"
+    ]
+  },
+  {
+    "value": "Data",
+    "synonyms": [
+      "Data"
+    ]
+  },
+  {
+    "value": "Structures",
+    "synonyms": [
+      "Structures"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Electronics",
+    "synonyms": [
+      "Electronics"
+    ]
+  },
+  {
+    "value": "Urban",
+    "synonyms": [
+      "Urban"
+    ]
+  },
+  {
+    "value": "Transportation",
+    "synonyms": [
+      "Transportation"
+    ]
+  },
+  {
+    "value": "Systems",
+    "synonyms": [
+      "Systems"
+    ]
+  },
+  {
+    "value": "planning",
+    "synonyms": [
+      "planning"
+    ]
+  },
+  {
+    "value": "Marine",
+    "synonyms": [
+      "Marine"
+    ]
+  },
+  {
+    "value": "Structures",
+    "synonyms": [
+      "Structures"
+    ]
+  },
+  {
+    "value": "Analog",
+    "synonyms": [
+      "Analog"
+    ]
+  },
+  {
+    "value": "Electronics",
+    "synonyms": [
+      "Electronics"
+    ]
+  },
+  {
+    "value": "Data",
+    "synonyms": [
+      "Data"
+    ]
+  },
+  {
+    "value": "Structures",
+    "synonyms": [
+      "Structures"
+    ]
+  },
+  {
+    "value": "Digital",
+    "synonyms": [
+      "Digital"
+    ]
+  },
+  {
+    "value": "Electronics",
+    "synonyms": [
+      "Electronics"
+    ]
+  },
+  {
+    "value": "Electro",
+    "synonyms": [
+      "Electro"
+    ]
+  },
+  {
+    "value": "Magnetic",
+    "synonyms": [
+      "Magnetic"
+    ]
+  },
+  {
+    "value": "Theory",
+    "synonyms": [
+      "Theory"
+    ]
+  },
+  {
+    "value": "Transportation",
+    "synonyms": [
+      "Transportation"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "Engineering"
+    ]
+  },
+  {
+    "value": "Data Structures",
+    "synonyms": [
+      "data structures",
+      "Data Structures",
+      "DS"
+    ]
+  },
+  {
+    "value": "AMRT",
+    "synonyms": [
+      "AMRT"
+    ]
+  },
+  {
+    "value": "COEP",
+    "synonyms": [
+      "COEP"
+    ]
+  },
+  {
+    "value": "IIITH",
+    "synonyms": [
+      "IIITH"
+    ]
+  },
+  {
+    "value": "IITB",
+    "synonyms": [
+      "IITB"
+    ]
+  },
+  {
+    "value": "IITD",
+    "synonyms": [
+      "IITD"
+    ]
+  },
+  {
+    "value": "IITG",
+    "synonyms": [
+      "IITG"
+    ]
+  },
+  {
+    "value": "IITK",
+    "synonyms": [
+      "IITK"
+    ]
+  },
+  {
+    "value": "IITKGP",
+    "synonyms": [
+      "IITKGP"
+    ]
+  },
+  {
+    "value": "IITR",
+    "synonyms": [
+      "IITR"
+    ]
+  },
+  {
+    "value": "NITK",
+    "synonyms": [
+      "NITK"
+    ]
+  },
+  {
+    "value": "Fluid Mechanics",
+    "synonyms": [
+      "Fluid Mechanics"
+    ]
+  }
+]

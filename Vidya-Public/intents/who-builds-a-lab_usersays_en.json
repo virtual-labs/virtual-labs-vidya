@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1f19fae6-e24d-44ed-bce3-69bc00a38e71",
+    "data": [
+      {
+        "text": "Who builds a ",
+        "userDefined": false
+      },
+      {
+        "text": "lab",
+        "meta": "@Virtual-Labs-Services",
+        "alias": "virtual-labs-services",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

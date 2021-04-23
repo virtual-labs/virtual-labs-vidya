@@ -1,0 +1,106 @@
+[
+  {
+    "id": "26a754d6-d7f4-40a4-be56-b8ee63c52d7b",
+    "data": [
+      {
+        "text": "System memory required for running Virtual box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "897d10bb-b486-45a0-930a-864170bc7dd1",
+    "data": [
+      {
+        "text": "Can you tell me memory for running Virtual Lab in Virtual Box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9953ce4-1b16-49c1-a0fe-8492c9775c56",
+    "data": [
+      {
+        "text": "Tell me memory required for Virtual Labs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01178e39-f61f-4898-a6b2-94f102e27172",
+    "data": [
+      {
+        "text": "How much memory required for Virtual Labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e89c8115-339e-462b-a636-40e88874de6d",
+    "data": [
+      {
+        "text": "How much RAM do I need to run Virtual Labs in Virtual Box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95fd7705-38ee-4bbe-82af-95bb2806ea0a",
+    "data": [
+      {
+        "text": "Recommended RAM for running Virtual Labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97f94b02-47b5-4b3c-a90f-340b55e499ca",
+    "data": [
+      {
+        "text": "Memory to run Virtual Labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66e8967a-1bfa-4d91-b028-a181605137da",
+    "data": [
+      {
+        "text": "How much memory is required to run Virtual Labs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "9e867971-e257-4e2e-8b14-5971b58dfa05",
+    "data": [
+      {
+        "text": "Overall users since ",
+        "userDefined": false
+      },
+      {
+        "text": "May 8 2020",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef7bcdef-78ad-421a-ae03-30050b97da6d",
+    "data": [
+      {
+        "text": "Cumulative users since ",
+        "userDefined": false
+      },
+      {
+        "text": "Feb 2 2020",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "667d0725-b648-4e73-908e-262ceaef0760",
+    "data": [
+      {
+        "text": "Cumulative users since beginning?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53d6dfa1-96c9-4ad8-9bc3-5dbc7823e177",
+    "data": [
+      {
+        "text": "Users from ",
+        "userDefined": false
+      },
+      {
+        "text": "11/23/2020",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "feaad691-677d-43eb-8991-550cf0b8e613",
+    "data": [
+      {
+        "text": "Users from ",
+        "userDefined": false
+      },
+      {
+        "text": "1st April 2020",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1331715a-5282-4e8b-9093-2544753eeaa5",
+    "data": [
+      {
+        "text": "Users from ",
+        "userDefined": false
+      },
+      {
+        "text": "May 8 2020",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

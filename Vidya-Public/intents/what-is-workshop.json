@@ -1,0 +1,68 @@
+{
+  "id": "32c014b0-8b3e-4fc1-bd8d-180db8e427f5",
+  "name": "what-is-workshop",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "slack",
+          "imageUrl": "https://vlead.vlabs.ac.in/static/c6bf81afe25d544ae01804bc35cd0caa/309dd/2020-02-06-satyasai-0006.webp",
+          "subtitle": "Virtual Labs Team organizes workshops with hands-on practice sessions on Virtual Labs for interested Science \u0026 Engineering Institutions.",
+          "title": "Virtual Labs Workshops",
+          "buttons": [
+            {
+              "postback": "https://vlead.vlabs.ac.in/outreach#faq",
+              "text": "Click for more info"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "Virtual Labs Team organizes workshops with hands-on practice sessions on Virtual Labs for interested Science \u0026 Engineering Institutions.",
+                  "actionLink": "https://vlead.vlabs.ac.in/outreach#faq",
+                  "title": "Virtual Labs Workshops",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://vlead.vlabs.ac.in/static/c6bf81afe25d544ae01804bc35cd0caa/309dd/2020-02-06-satyasai-0006.webp"
+                    }
+                  },
+                  "type": "info"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "a66db38f-b4c9-4ef4-8a4d-efcf4c223da3",
+  "name": "OS",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

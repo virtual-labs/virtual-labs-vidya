@@ -1,0 +1,64 @@
+{
+  "id": "b74afa47-41a4-4513-87a8-efb293450262",
+  "name": "access-virtual-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "slack",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Vlead.jpg",
+          "title": "Virtual Labs",
+          "buttons": [
+            {
+              "postback": "https://www.vlabs.ac.in/",
+              "text": "Click to access labs"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "actionLink": "https://www.vlabs.ac.in",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Vlead.jpg"
+                    }
+                  },
+                  "subtitle": "Click to access Virtual Labs",
+                  "title": "Virtual Labs",
+                  "type": "info"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

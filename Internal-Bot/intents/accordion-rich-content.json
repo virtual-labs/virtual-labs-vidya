@@ -1,0 +1,104 @@
+{
+  "id": "740db35d-5331-4ae4-8ded-4fe648f9ec9a",
+  "name": "accordion-rich-content",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Accordion response:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "slack",
+          "imageUrl": "https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/accordion-item.png",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add the Accordion response type in Dialogflow Messenger with the following custom payload.\n\n\n{\n  \"richContent\": [\n    [\n      {\n        \"type\": \"accordion\",\n        \"title\": \"Accordion title\",\n        \"subtitle\": \"Accordion subtitle\",\n        \"image\": {\n          \"src\": {\n            \"rawUrl\": \"https://example.com/images/logo.png\"\n          }\n        },\n        \"text\": \"Accordion text\"\n      }\n    ]\n  ]\n}"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Accordion response looks as follows:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "Accordion subtitle",
+                  "type": "accordion",
+                  "text": "Accordion text",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://example.com/images/logo.png"
+                    }
+                  },
+                  "title": "Accordion title"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can add the Accordion response type in Dialogflow Messenger with the following custom payload.\n\n\n{\r\n  \"richContent\": [\r\n    [\r\n      {\r\n        \"type\": \"accordion\",\r\n        \"title\": \"Accordion title\",\r\n        \"subtitle\": \"Accordion subtitle\",\r\n        \"image\": {\r\n          \"src\": {\r\n            \"rawUrl\": \"https://example.com/images/logo.png\"\r\n          }\r\n        },\r\n        \"text\": \"Accordion text\"\r\n      }\r\n    ]\r\n  ]\r\n}"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "ACCORD"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

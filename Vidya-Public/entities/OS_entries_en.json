@@ -1,0 +1,36 @@
+[
+  {
+    "value": "Linux",
+    "synonyms": [
+      "Linux",
+      "Ubuntu",
+      "Fedora"
+    ]
+  },
+  {
+    "value": "Mac",
+    "synonyms": [
+      "Mac",
+      "Apple",
+      "OSX",
+      "Unix",
+      "MacOS",
+      "Macbook Pro",
+      "Macbook Air"
+    ]
+  },
+  {
+    "value": "Windows",
+    "synonyms": [
+      "Windows",
+      "Windows 10",
+      "Windows 7"
+    ]
+  },
+  {
+    "value": "CentOS",
+    "synonyms": [
+      "CentOS"
+    ]
+  }
+]

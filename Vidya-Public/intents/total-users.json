@@ -1,0 +1,14 @@
+{
+  "id": "3bc3aab7-0c72-489a-99b9-65c5709a5eac",
+  "name": "total-users",
+  "auto": true,
+  "contexts": [],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

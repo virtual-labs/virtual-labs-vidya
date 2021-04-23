@@ -1,0 +1,35 @@
+{
+  "id": "a2ed0857-5767-4e19-bfbc-401aeff3e046",
+  "name": "vlead-address",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Engineering and Architecture Division :\nRoom No:B6-204,\nVindhya C6, VLEAD, IIIT-H, Gachibowli,\nHyderabad - 500032"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

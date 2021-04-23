@@ -1,0 +1,105 @@
+{
+  "id": "83f44e63-17e0-4dfe-a63a-9b1cbd5b4ccd",
+  "name": "social-media-virtual-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "af90772c-7e5c-4d74-a9d2-37c584486c07",
+          "name": "virtual-labs-services",
+          "required": false,
+          "dataType": "@Virtual-Labs-Services",
+          "value": "$virtual-labs-services",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1. https://www.linkedin.com/in/virtual-labs-008ba9136\n2. https://www.youtube.com/watch?v\u003dasxRaOgk6a0\n3. https://twitter.com/TheVirtualLabs\n4. https://www.facebook.com/VLabsIITDelhi/"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Facebook",
+                      "image": {
+                        "src": {
+                          "rawUrl": "https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.png"
+                        }
+                      },
+                      "link": "https://www.facebook.com/VLabsIITDelhi/"
+                    },
+                    {
+                      "image": {
+                        "src": {
+                          "rawUrl": "https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg"
+                        }
+                      },
+                      "link": "https://twitter.com/TheVirtualLabs",
+                      "text": "Twitter"
+                    },
+                    {
+                      "text": "Youtube",
+                      "link": "https://www.youtube.com/watch?v\u003dasxRaOgk6a0",
+                      "image": {
+                        "src": {
+                          "rawUrl": "https://seeklogo.net/wp-content/uploads/2020/03/YouTube-icon-SVG-512x512.png"
+                        }
+                      }
+                    },
+                    {
+                      "image": {
+                        "src": {
+                          "rawUrl": "https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png"
+                        }
+                      },
+                      "text": "Linkedin",
+                      "link": "https://www.linkedin.com/in/virtual-labs-008ba9136"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

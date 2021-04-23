@@ -1,0 +1,169 @@
+{
+  "id": "206c871b-0ffe-4728-8888-6035f9eb950b",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "slack",
+          "title": "",
+          "payload": {
+            "slack": {
+              "attachments": [
+                {
+                  "blocks": [
+                    {
+                      "type": "section",
+                      "text": {
+                        "text": "*How have you been feeling?*",
+                        "type": "mrkdwn"
+                      }
+                    },
+                    {
+                      "type": "divider"
+                    },
+                    {
+                      "block_id": "1",
+                      "text": {
+                        "text": ":tired_face: *I’ve been feeling more exasperated and hopeless*",
+                        "type": "mrkdwn"
+                      },
+                      "accessory": {
+                        "value": "1",
+                        "text": {
+                          "type": "plain_text",
+                          "emoji": true,
+                          "text": "Vote"
+                        },
+                        "type": "button"
+                      },
+                      "type": "section"
+                    },
+                    {
+                      "accessory": {
+                        "type": "button",
+                        "value": "2",
+                        "text": {
+                          "type": "plain_text",
+                          "text": "Vote",
+                          "emoji": true
+                        }
+                      },
+                      "type": "section",
+                      "block_id": "2",
+                      "text": {
+                        "text": ":expressionless: *Generally, less freaked out than other people*",
+                        "type": "mrkdwn"
+                      }
+                    },
+                    {
+                      "type": "section",
+                      "accessory": {
+                        "value": "3",
+                        "text": {
+                          "type": "plain_text",
+                          "text": "Vote",
+                          "emoji": true
+                        },
+                        "type": "button"
+                      },
+                      "text": {
+                        "text": ":relieved: *More calm and hopeful*",
+                        "type": "mrkdwn"
+                      }
+                    },
+                    {
+                      "block_id": "4",
+                      "type": "section",
+                      "accessory": {
+                        "value": "4",
+                        "type": "button",
+                        "text": {
+                          "text": "Vote",
+                          "emoji": true,
+                          "type": "plain_text"
+                        }
+                      },
+                      "text": {
+                        "text": ":fearful: *More scared and panicked*",
+                        "type": "mrkdwn"
+                      }
+                    },
+                    {
+                      "accessory": {
+                        "text": {
+                          "emoji": true,
+                          "type": "plain_text",
+                          "text": "Vote"
+                        },
+                        "type": "button",
+                        "value": "5"
+                      },
+                      "block_id": "5",
+                      "type": "section",
+                      "text": {
+                        "text": ":open_mouth: *More surprised and baffled*",
+                        "type": "mrkdwn"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "text": ""
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Greetings  ! I am Vidya. What would you like to know about Virtual labs ?",
+            "Hello, Welcome to Virtual Labs. I am Vidya. How can I assist you ?",
+            "Hi there, I am Vidya. How can I help you get started with Virtual Labs  ?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "speech": [
+            "नमस्ते!",
+            "नमस्कार!",
+            "आपका दिन शुभ हो!"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "01bb5c4f-3f91-4c2d-9aae-97a29f8be8e4",
+    "data": [
+      {
+        "text": "Recommended processor for VirtualBox?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "040a172f-5b0d-4d75-97bf-3eb4dabc5755",
+    "data": [
+      {
+        "text": "Which processor is required to run Virtual Labs in VirtualBox?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59a17f0b-a79d-4a68-99a4-976dcb1f2e67",
+    "data": [
+      {
+        "text": "Which processor do I need to run VirtualBox?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ef253ed-91a2-4497-ba19-5456946ec785",
+    "data": [
+      {
+        "text": "Processor requirement for Virtual Box?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8403cd90-286c-4f25-86c1-6ff23db10f4a",
+    "data": [
+      {
+        "text": "Which processor is required to run VirtualBox?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

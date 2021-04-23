@@ -1,0 +1,163 @@
+[
+  {
+    "id": "388d42d7-929c-4e25-9b34-e0d5c5cbad8d",
+    "data": [
+      {
+        "text": "system requirements for workshop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0401d65e-54d5-45a5-ad02-7f883eeb937b",
+    "data": [
+      {
+        "text": "Config requirements for running workshops?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88bc27cb-3550-4a8e-b916-2712c14ec790",
+    "data": [
+      {
+        "text": "What needs to be there in my system for a onsite virtual lab workshop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f539c7e-eead-411a-b2be-e05b97c281ca",
+    "data": [
+      {
+        "text": "Technical requirements for an onsite virtual lab workshop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f8bdc4f-61eb-422a-b20d-6b1244b8e7eb",
+    "data": [
+      {
+        "text": "Onsite virtual labs system requirements?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b2d1126-c35b-473d-9653-5515514ff060",
+    "data": [
+      {
+        "text": "Recommended sys config for running workshop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c43b607-a23f-49c6-96d4-da65efd0e785",
+    "data": [
+      {
+        "text": "System requirements for virtual lab workshop onsite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e83f6cea-327d-45bb-bbf7-0455066a92aa",
+    "data": [
+      {
+        "text": "What are the system requirements for an onsite virtual lab workshop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86869d8f-6853-4a96-91df-de0482a6e5a9",
+    "data": [
+      {
+        "text": "System requirements for an onsite virtual lab workshop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e331191b-d309-41e0-aa02-7eac4a5cfd00",
+    "data": [
+      {
+        "text": "What are the system configuration needed to run ",
+        "userDefined": false
+      },
+      {
+        "text": "Workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "210b00a2-ebcf-4d6a-8f17-c52bfffb72f4",
+    "data": [
+      {
+        "text": "System config for running ",
+        "userDefined": false
+      },
+      {
+        "text": "workshops",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "id": "ef15efbe-786e-459b-8b35-83fe86c7663f",
+  "name": "simulation-labs-register",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "slack",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All labs can be directly accessed by following the lab links on the web page.\n\nhttp://www.vlab.co.in/"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All labs can be directly accessed by following the lab links on the following web page."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "link": "http://www.vlab.co.in/",
+                  "type": "button",
+                  "text": "Virtual Labs",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "link"
+                  },
+                  "event": {
+                    "parameters": {},
+                    "name": "",
+                    "languageCode": ""
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "SIM_REG"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

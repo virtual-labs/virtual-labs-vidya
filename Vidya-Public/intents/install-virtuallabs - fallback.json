@@ -1,0 +1,46 @@
+{
+  "id": "aa8aadbb-5803-4a7a-8602-bd9e78d297c9",
+  "parentId": "19c8d0c6-8ca9-48fd-ae6a-8a0e585d1638",
+  "rootParentId": "19c8d0c6-8ca9-48fd-ae6a-8a0e585d1638",
+  "name": "install-virtuallabs - fallback",
+  "auto": true,
+  "contexts": [
+    "install-virtuallabs-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "install-virtuallabs.install-virtuallabs-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please check the workshop FAQs."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

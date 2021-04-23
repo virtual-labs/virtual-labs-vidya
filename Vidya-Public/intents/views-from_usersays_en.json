@@ -1,0 +1,566 @@
+[
+  {
+    "id": "8ce2ebe8-7737-4532-97d2-dc1f1e07266f",
+    "data": [
+      {
+        "text": "Views for all colleges since beginning?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76afa536-5484-4ffd-b1ec-9cf17c4c4916",
+    "data": [
+      {
+        "text": "Views from ",
+        "userDefined": false
+      },
+      {
+        "text": "1 Feb 2021",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "IITR",
+        "meta": "@Colleges",
+        "alias": "college",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "IIITH",
+        "meta": "@Colleges",
+        "alias": "college",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "COEP",
+        "meta": "@Colleges",
+        "alias": "college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1484996-30cd-4607-8543-f9e6d61ed1c5",
+    "data": [
+      {
+        "text": "views from ",
+        "userDefined": false
+      },
+      {
+        "text": "Jan 1 2021",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "COEP",
+        "meta": "@Colleges",
+        "alias": "college",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "IIITH",
+        "meta": "@Colleges",
+        "alias": "college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c8c591e-3665-4c15-9489-6e7a1f45b24c",
+    "data": [
+      {
+        "text": "IITR",
+        "meta": "@Colleges",
+        "alias": "college",
+        "userDefined": false
+      },
+      {
+        "text": " Virtual Labs views since ",
+        "userDefined": false
+      },
+      {
+        "text": "1 Feb 2021",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83727684-defa-4eeb-8ab4-eeed9e391c9e",
+    "data": [
+      {
+        "text": "COEP",
+        "meta": "@Colleges",
+        "alias": "college",
+        "userDefined": true
+      },
+      {
+        "text": " Labs views since ",
+        "userDefined": false
+      },
+      {
+        "text": "Jan 1 2021",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bff6fb6-5b6f-4717-b3ed-c25ee5d28ffa",
+    "data": [
+      {
+        "text": "views since ",
+        "userDefined": false
+      },
+      {
+        "text": "1/1/2021",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5813542-51ca-4272-9ac1-4ab7077d23c3",
+    "data": [
+      {
+        "text": "How many times ",
+        "userDefined": false
+      },
+      {
+        "text": "IIITH",
+        "meta": "@Colleges",
+        "alias": "college",
+        "userDefined": false
+      },
+      {
+        "text": " \u0026 ",
+        "userDefined": false
+      },
+      {
+        "text": "COEP",
+        "meta": "@Colleges",
+        "alias": "college",
+        "userDefined": false
+      },
+      {
+        "text": " labs have been visited since ",
+        "userDefined": false
+      },
+      {
+        "text": "1/1/2021",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62ec53bb-1ebd-445b-9005-e859f8217e39",
+    "data": [
+      {
+        "text": "How many people watched ",
+        "userDefined": false
+      },
+      {
+        "text": "IIITH",
+        "meta": "@Colleges",
+        "alias": "college",
+        "userDefined": false
+      },
+      {
+        "text": " labs since ",
+        "userDefined": false
+      },
+      {
+        "text": "1st Jan 2021",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6e4884f-6216-40e3-9354-aed567ed7fbb",
+    "data": [
+      {
+        "text": "Institutes wise views from ",
+        "userDefined": false
+      },
+      {
+        "text": "1/1/2021",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8201d34f-9117-4215-9561-e89d3d24ca5e",
+    "data": [
+      {
+        "text": "Total views from beginning for all institutes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46e58e09-225b-4e8b-97d6-ec6a13129a38",
+    "data": [
+      {
+        "text": "Views from ",
+        "userDefined": false
+      },
+      {
+        "text": "Jan 1 2021",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " for all institutes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77a14508-7b07-4075-9248-094d185c85fb",
+    "data": [
+      {
+        "text": "Views from beginning for all colleges?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96a5a778-6df7-40b8-be36-1f1eef048607",
+    "data": [
+      {
+        "text": "views from beginning?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2307594c-0e1e-4d98-a295-5f0751525ec9",
+    "data": [
+      {
+        "text": "Views from ",
+        "userDefined": false
+      },
+      {
+        "text": "Mar 1 2021",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "COEP",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " \u0026 ",
+        "userDefined": false
+      },
+      {
+        "text": "IIITH",
+        "meta": "@Colleges",
+        "alias": "college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f069940-4026-430c-8654-45515a481bff",
+    "data": [
+      {
+        "text": "How many times ",
+        "userDefined": false
+      },
+      {
+        "text": "IIITH",
+        "meta": "@Colleges",
+        "alias": "college",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " have been viewed since ",
+        "userDefined": false
+      },
+      {
+        "text": "1/1/2021",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c28e132-f575-4c62-8abe-752fdeeaaa4e",
+    "data": [
+      {
+        "text": "How many times ",
+        "userDefined": false
+      },
+      {
+        "text": "Virtual Labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " have been viewed since ",
+        "userDefined": false
+      },
+      {
+        "text": "Feb 1 2021",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0e652b8-3bc1-45f8-a8cc-9fefc68cdf9f",
+    "data": [
+      {
+        "text": "Total views since ",
+        "userDefined": false
+      },
+      {
+        "text": "1 Jan 2021",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4315e0b-3a71-4cbc-9477-abe67c5d3fd8",
+    "data": [
+      {
+        "text": "Cumulative pageviews from ",
+        "userDefined": false
+      },
+      {
+        "text": "1 Dec 2020",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " for all ",
+        "userDefined": false
+      },
+      {
+        "text": "colleges",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b7403da-92a4-419d-9ba4-74f21c76c471",
+    "data": [
+      {
+        "text": "Views from ",
+        "userDefined": false
+      },
+      {
+        "text": "May 1 2020",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "COEP",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "IIITH",
+        "meta": "@Colleges",
+        "alias": "college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

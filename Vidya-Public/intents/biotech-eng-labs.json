@@ -1,0 +1,61 @@
+{
+  "id": "7e836f77-90a5-407a-859b-86990f685b2e",
+  "name": "biotech-eng-labs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "slack",
+          "title": "Biotech \u0026 Biomedical Engineering Labs",
+          "buttons": [
+            {
+              "postback": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering",
+              "text": "Click to view Biotech \u0026 Biomedical Engineering Labs"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering",
+                  "icon": {
+                    "type": "link",
+                    "color": "#FF9800"
+                  },
+                  "type": "button",
+                  "text": "Biotech \u0026 Biomedical Engineering Labs"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
