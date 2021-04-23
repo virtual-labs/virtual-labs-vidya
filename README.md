@@ -25,6 +25,7 @@ Vidya consists of both public and private agents. The public bot deployed on [Vl
     Vidya-Public\                         For importing an agent, zip the folder & import it in dialogflow
         agent.json
         package.json
+        customSmalltalkResponses_en.json  Small talk responses (Small talk only available in public bot)  
         intents\
             ...
     README.md                             Basic information about the bot usage & development
@@ -82,7 +83,7 @@ As of now, Vidya covers 150+ conversation scenarios. Following are some of the e
 6. How to add button in dialogflow?
 7. syntax for info type?
 
-### Misch
+### Misc
 
 1. analytics page?
 2. Virtual Labs contribution process?
@@ -118,6 +119,193 @@ Vidya is made up of following three Dialogflow agents.
 2. [Adding Intent](https://cloud.google.com/dialogflow/es/docs/intents-overview)
 3. [Adding Fulfillment](https://cloud.google.com/dialogflow/es/docs/quick/fulfillment)
 4. [Entities](https://cloud.google.com/dialogflow/es/docs/entities-overview)
+
+### Rich Content Syntax
+
+Following are the rich content types available in Dialogflow messenger along with example & syntax
+
+#### 1. Info/Card
+
+![Info Sample](https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/info-item.png "Info Sample")
+
+```
+ {    
+ "richContent": [    
+   [    
+     {
+       "type": "info",    
+       "title": "Info item title",    
+       "subtitle": "Info item subtitle",    
+       "image": {    
+         "src": {    
+           "rawUrl": "https://example.com/images/logo.png"    
+         }    
+       },    
+       "actionLink": "https://example.com"    
+     }    
+   ]    
+ ]    
+}
+```
+
+#### 2. Description
+
+![Description Sample](https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/description-item.png "Description Sample")
+
+```
+{
+ "richContent": [
+   [
+     {
+       "type": "description",
+       "title": "Description title",
+       "text": [
+         "This is text line 1.",
+         "This is text line 2."
+       ]
+     }
+   ]
+ ]
+}
+```
+
+#### 3. Image
+
+![Image Sample](https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/image-item.png)
+
+```
+{
+ "richContent": [
+   [
+     {
+       "type": "image",
+       "rawUrl": "https://example.com/images/logo.png",
+       "accessibilityText": "Example logo"
+     }
+   ]
+ ]
+}
+```
+
+#### 4. Button
+
+![Button Sample](https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/button-item.png)
+```
+{
+ "richContent": [
+   [
+     {
+       "type": "button",
+       "icon": {
+         "type": "chevron_right",
+         "color": "#FF9800"
+       },
+       "text": "Button text",
+       "link": "https://example.com",
+       "event": {
+         "name": "",
+         "languageCode": "",
+         "parameters": {}
+       }
+     }
+   ]
+ ]
+}
+```
+
+#### 5. List
+
+![List Sample](https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/list-item.png)
+
+```
+{
+ "richContent": [
+   [
+     {
+       "type": "list",
+       "title": "List item 1 title",
+       "subtitle": "List item 1 subtitle",
+       "event": {
+         "name": "",
+         "languageCode": "",
+         "parameters": {}
+       }
+     },
+     {
+       "type": "divider"
+     },
+     {
+       "type": "list",
+       "title": "List item 2 title",
+       "subtitle": "List item 2 subtitle",
+       "event": {
+         "name": "",
+         "languageCode": "",
+         "parameters": {}
+       }
+     }
+   ]
+ ]
+}
+```
+
+#### 6. Accordion
+
+[Accordion Image](https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/accordion-item.png)
+```
+{
+ "richContent": [
+   [
+     {
+       "type": "accordion",
+       "title": "Accordion title",
+       "subtitle": "Accordion subtitle",
+       "image": {
+         "src": {
+           "rawUrl": "https://example.com/images/logo.png"
+         }
+       },
+       "text": "Accordion text"
+     }
+   ]
+ ]
+}
+```
+
+#### 7. Suggestion Chips
+
+[Chips Image](https://cloud.google.com/dialogflow/es/docs/images/integrations/dialogflow-messenger/chip-item.png)
+```
+{
+ "richContent": [
+   [
+     {
+       "type": "chips",
+       "options": [
+         {
+           "text": "Chip 1",
+           "image": {
+             "src": {
+               "rawUrl": "https://example.com/images/logo.png"
+             }
+           },
+           "link": "https://example.com"
+         },
+         {
+           "text": "Chip 2",
+           "image": {
+             "src": {
+               "rawUrl": "https://example.com/images/logo.png"
+             }
+           },
+           "link": "https://example.com"
+         }
+       ]
+     }
+   ]
+ ]
+}
+```
 
 ## Future Suggestions
 
